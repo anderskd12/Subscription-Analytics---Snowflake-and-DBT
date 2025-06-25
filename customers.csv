@@ -1,0 +1,1001 @@
+customer_id,company_name,company_size,company_type,industry,country,created_at,acquisition_channel,is_active
+cust_acd87ed1,"Rodriguez, Figueroa and Sanchez",1-10,Startup,Retail,CU,2024-10-13,Content Marketing,True
+cust_3e0ebba3,Rhodes PLC,11-50,Startup,Retail,BT,2024-08-17,Partner,False
+cust_ed1dd98a,Johnson-Davis,1-10,Enterprise,Technology,HT,2024-07-15,Organic,True
+cust_791c82c1,"Johnson, Gonzalez and Santos",11-50,Startup,Education,ST,2024-06-11,Paid Search,True
+cust_6ad6cb37,Cole LLC,1000+,Enterprise,Healthcare,AF,2024-10-21,Referral,True
+cust_7c6b02b2,Wolfe LLC,1-10,SMB,Retail,IT,2024-03-01,Referral,True
+cust_8ba70002,Bernard LLC,11-50,SMB,Media,CA,2024-02-06,Content Marketing,True
+cust_eebf5978,Davis-Abbott,201-1000,Startup,Finance,UY,2024-04-12,Content Marketing,True
+cust_ef234ff6,Blair PLC,1-10,Enterprise,Education,CM,2024-12-24,Organic,False
+cust_a9dc6324,Miller-Carter,201-1000,Startup,Education,YE,2024-08-28,Content Marketing,True
+cust_1dc440aa,Ray-Bush,1000+,Mid-Market,Education,BD,2024-09-13,Paid Search,True
+cust_8da109b7,Mejia Inc,1-10,SMB,Media,HT,2024-12-02,Content Marketing,False
+cust_bd57770a,James Group,11-50,Startup,Manufacturing,ZW,2024-11-19,Content Marketing,True
+cust_b5255d9e,Martin-Kelly,51-200,SMB,Finance,SV,2024-04-13,Content Marketing,True
+cust_b84f4984,"Zuniga, Wong and Lynch",51-200,Startup,Education,DO,2024-07-26,Partner,True
+cust_eee03a5d,"Sanchez, Ford and Nelson",11-50,SMB,Manufacturing,DZ,2024-09-24,Referral,True
+cust_9a1ac697,"Robinson, Nguyen and Tate",1000+,SMB,Retail,BG,2024-03-29,Content Marketing,True
+cust_3d88e46f,Trujillo Group,1-10,SMB,Media,IQ,2024-01-26,Organic,True
+cust_e9ac64cd,Gentry PLC,201-1000,Mid-Market,Technology,VC,2024-05-02,Paid Search,False
+cust_c24d247b,Rios Group,1000+,Mid-Market,Healthcare,BA,2024-06-27,Partner,True
+cust_536a86ef,Baker and Sons,201-1000,SMB,Finance,CH,2024-08-06,Paid Search,True
+cust_64f3b0bd,"Baker, Richards and Hurst",1000+,Mid-Market,Retail,MZ,2024-05-20,Direct Sales,True
+cust_1b29293b,Osborn and Sons,1000+,Enterprise,Finance,SE,2024-07-10,Paid Search,False
+cust_bb903637,Campos Inc,11-50,Enterprise,Technology,DE,2024-08-31,Organic,False
+cust_bd8fe245,Conner Group,11-50,SMB,Media,UG,2024-01-25,Partner,True
+cust_7f2be150,James-Ferrell,1-10,Enterprise,Manufacturing,SM,2024-04-07,Direct Sales,False
+cust_21c418b8,"Valencia, Smith and Le",1000+,Mid-Market,Education,KZ,2024-12-09,Organic,True
+cust_c4c85e41,"Potter, Mack and Peterson",1-10,Mid-Market,Media,KE,2024-06-17,Partner,True
+cust_5d209b94,Chavez Ltd,51-200,Enterprise,Healthcare,WS,2024-04-12,Referral,True
+cust_e73e57c6,"Gill, Romero and Rodriguez",51-200,SMB,Education,YE,2024-04-25,Organic,False
+cust_9111ba9e,"Romero, Gonzalez and Brooks",51-200,SMB,Healthcare,DK,2024-07-28,Content Marketing,True
+cust_379a8ddf,"Sellers, George and Burns",1000+,Startup,Education,CG,2024-12-26,Content Marketing,True
+cust_3ab17ccd,Koch-Decker,1-10,Mid-Market,Media,KP,2024-04-02,Content Marketing,True
+cust_db859128,Allen PLC,11-50,Startup,Technology,BR,2024-02-03,Partner,True
+cust_87e92ed4,"Tucker, Jones and Hodges",1-10,SMB,Healthcare,CN,2024-02-19,Partner,True
+cust_660d6670,"Alvarez, Pierce and Baker",1000+,SMB,Finance,UZ,2024-06-13,Direct Sales,False
+cust_9c9461b2,Hickman Ltd,201-1000,SMB,Education,FM,2024-03-19,Partner,True
+cust_9665fd89,"Collins, Carney and Santos",51-200,Enterprise,Retail,OM,2024-12-15,Partner,True
+cust_724536d7,"Hayes, Wright and Brown",1000+,Enterprise,Technology,AO,2024-08-16,Paid Search,True
+cust_aac01c8c,"Hall, Robinson and Jones",51-200,Startup,Education,ZM,2024-01-23,Direct Sales,True
+cust_28139ceb,Jones Inc,11-50,Startup,Technology,LS,2024-01-28,Partner,True
+cust_cb6fab1e,"Young, Caldwell and Lewis",11-50,Startup,Technology,CO,2024-10-07,Content Marketing,True
+cust_81f03161,"Johnston, Sanchez and Kennedy",11-50,Mid-Market,Retail,NE,2024-03-14,Referral,True
+cust_2255c075,Davis Group,11-50,Enterprise,Healthcare,MH,2024-06-13,Referral,True
+cust_3d5ef0cc,Owens-Daniel,11-50,Startup,Technology,GQ,2024-09-10,Partner,True
+cust_36f424d3,"Garcia, Powell and Morgan",201-1000,Enterprise,Manufacturing,CD,2024-04-06,Partner,True
+cust_66f312b9,Lee Group,1-10,Startup,Manufacturing,CU,2024-06-12,Partner,True
+cust_15c92d84,Ramirez and Sons,1-10,SMB,Healthcare,BO,2024-06-21,Paid Search,True
+cust_8bd66631,"Garcia, Pearson and Fernandez",11-50,Enterprise,Healthcare,AL,2024-02-06,Content Marketing,True
+cust_2bee17a5,Martin Group,1-10,Enterprise,Media,RO,2024-03-24,Direct Sales,True
+cust_826d1c29,Barrera-Martin,1000+,Startup,Technology,AD,2024-05-31,Paid Search,True
+cust_99ed67e7,House-Glover,201-1000,Enterprise,Healthcare,JO,2024-06-13,Referral,False
+cust_910a74f9,"Bernard, Cowan and Peters",11-50,Enterprise,Technology,VC,2024-07-08,Referral,True
+cust_21afde7e,Lee and Sons,201-1000,Mid-Market,Manufacturing,BG,2024-08-12,Partner,False
+cust_afcce1cd,"Daniels, Adkins and Brown",1000+,Enterprise,Healthcare,TV,2024-07-04,Paid Search,True
+cust_dae94fa3,"Calhoun, Schmidt and Brown",1-10,Startup,Retail,SE,2024-02-01,Content Marketing,True
+cust_60c92667,Jones Inc,1000+,Enterprise,Education,GQ,2024-11-30,Direct Sales,True
+cust_8ecc7191,Powell PLC,1000+,Startup,Media,HU,2024-08-12,Paid Search,True
+cust_5743c742,"Williams, Miller and Sandoval",1-10,SMB,Manufacturing,TM,2024-07-22,Organic,False
+cust_83b3cbc5,Donovan-Harris,1000+,SMB,Education,VC,2024-05-02,Direct Sales,True
+cust_3cd47d17,Baker and Sons,1-10,Enterprise,Retail,SV,2024-09-07,Direct Sales,True
+cust_fe4aa29c,Bryant-Hickman,51-200,Mid-Market,Healthcare,BN,2024-01-04,Partner,True
+cust_8c760f67,Howell-Hart,11-50,Mid-Market,Manufacturing,BZ,2024-01-29,Paid Search,True
+cust_7055a28b,"Lewis, Baker and Mahoney",51-200,Enterprise,Finance,BJ,2024-12-07,Organic,True
+cust_4d910c96,Wood and Sons,1000+,Startup,Technology,OM,2024-11-19,Direct Sales,True
+cust_c7cf45a1,"Warner, Carr and Archer",51-200,SMB,Finance,TD,2024-07-24,Organic,False
+cust_7ae6767f,Contreras PLC,51-200,Mid-Market,Healthcare,KG,2024-12-27,Referral,True
+cust_3e7ee3dc,"Garcia, Humphrey and Baker",51-200,Startup,Retail,CD,2024-10-15,Direct Sales,True
+cust_1a3d67ff,"Moore, Campbell and Clark",1-10,SMB,Finance,LV,2024-03-20,Organic,False
+cust_e6dd2123,"Walters, Baker and Freeman",1000+,SMB,Finance,BF,2024-02-05,Content Marketing,True
+cust_2df3c8fc,"Henderson, Hill and Smith",51-200,SMB,Retail,CO,2024-09-04,Partner,False
+cust_429ce2b7,Martin-Ramos,1000+,Enterprise,Finance,MA,2024-06-15,Organic,True
+cust_bb802257,"Smith, Jones and Ware",201-1000,Mid-Market,Technology,CZ,2024-07-30,Organic,True
+cust_f2697474,Davenport PLC,11-50,Mid-Market,Healthcare,TG,2024-02-27,Partner,True
+cust_11128df5,Anderson-Parker,201-1000,Startup,Technology,BB,2024-12-15,Organic,False
+cust_28e1f73e,Clark-Wright,11-50,Startup,Media,CA,2024-05-17,Content Marketing,True
+cust_5272cd3f,"Henson, Russell and Oliver",11-50,Enterprise,Healthcare,DE,2024-12-25,Organic,True
+cust_4884405f,Hancock and Sons,1-10,Mid-Market,Healthcare,NG,2024-01-10,Partner,True
+cust_b86f5f82,Doyle LLC,1-10,Mid-Market,Media,NG,2024-11-07,Direct Sales,False
+cust_6173f89d,"Shields, Cochran and Adams",201-1000,SMB,Healthcare,ME,2024-02-11,Paid Search,False
+cust_5a50f976,Brennan-Garrison,11-50,Enterprise,Technology,GN,2024-03-18,Paid Search,True
+cust_33f41ace,Bailey-Hoover,51-200,Enterprise,Media,GT,2024-03-27,Partner,False
+cust_55e45d8f,Keller Group,11-50,Mid-Market,Healthcare,LS,2024-04-18,Partner,True
+cust_fe7e05ab,Rasmussen LLC,1-10,Enterprise,Healthcare,MG,2024-09-06,Paid Search,True
+cust_21dea986,"Ross, Zavala and Herrera",201-1000,Mid-Market,Finance,AT,2024-02-14,Paid Search,True
+cust_09a9467a,White-Estes,11-50,Enterprise,Finance,IN,2024-01-15,Content Marketing,False
+cust_91fb78dc,Carlson LLC,51-200,Mid-Market,Retail,ZA,2024-11-01,Direct Sales,True
+cust_eeae4c73,Graham-Joyce,1000+,Mid-Market,Technology,CI,2024-05-29,Organic,False
+cust_5d02bb10,"Lee, Williams and Graham",51-200,SMB,Education,SK,2024-12-25,Content Marketing,True
+cust_c154a04a,"Mcdaniel, Bentley and Mclaughlin",1000+,Enterprise,Finance,FJ,2024-05-21,Partner,True
+cust_4c523fa7,Jones-Beck,201-1000,Startup,Manufacturing,LS,2024-08-30,Direct Sales,True
+cust_e43ffc82,Alvarado-Martinez,1-10,Enterprise,Technology,KG,2024-07-15,Direct Sales,False
+cust_595ca8cf,Estrada-Nguyen,1000+,SMB,Finance,MC,2024-04-24,Referral,True
+cust_e4040e98,"Martinez, Fisher and Bentley",51-200,Mid-Market,Retail,GD,2024-10-17,Organic,True
+cust_1b1436ca,Gilbert LLC,51-200,Mid-Market,Retail,NA,2024-07-31,Referral,True
+cust_054cc072,Torres and Sons,51-200,SMB,Healthcare,NR,2024-11-01,Referral,True
+cust_623b85ce,"Lawson, Morris and Ramos",201-1000,SMB,Education,GQ,2024-03-23,Direct Sales,True
+cust_53973cf3,"Kennedy, Santana and Flynn",1000+,Startup,Finance,DO,2024-09-12,Content Marketing,True
+cust_a106ccc2,Campbell Ltd,1000+,Mid-Market,Manufacturing,ZW,2024-08-28,Referral,True
+cust_036c232c,Davis-Crane,11-50,Enterprise,Media,GW,2024-09-18,Partner,True
+cust_c6bb4bd6,Walker-Gonzalez,1-10,Mid-Market,Education,AR,2024-01-18,Partner,True
+cust_c9726fd4,Riggs PLC,51-200,Startup,Media,BN,2024-06-25,Paid Search,True
+cust_178db314,Mercado-Johnston,11-50,SMB,Healthcare,VC,2024-09-27,Organic,True
+cust_2d338b7a,Snyder-Sanchez,201-1000,Startup,Manufacturing,TD,2024-09-24,Referral,False
+cust_70b83f2c,Stafford Inc,1000+,SMB,Retail,NO,2024-03-25,Partner,True
+cust_03473f17,Brock Ltd,201-1000,SMB,Healthcare,SI,2024-06-29,Partner,True
+cust_1ced4141,Grant Inc,1-10,Enterprise,Healthcare,PH,2024-02-21,Paid Search,True
+cust_e0d33c75,Contreras-Travis,1000+,Enterprise,Technology,UG,2024-05-03,Direct Sales,True
+cust_0245ce58,Salazar-Ball,1-10,Enterprise,Healthcare,SD,2024-06-14,Referral,True
+cust_d50dd54e,"Griffin, Moore and Hensley",1000+,Mid-Market,Media,PG,2024-04-10,Referral,True
+cust_a5cb38c7,Larsen LLC,1000+,Enterprise,Media,SK,2024-07-07,Direct Sales,True
+cust_c111b3d1,"Allen, Gonzales and Reeves",11-50,Enterprise,Manufacturing,GW,2024-04-15,Content Marketing,True
+cust_4a21aa73,Flores-Fernandez,51-200,Enterprise,Retail,CU,2024-02-28,Paid Search,True
+cust_bf038e1f,Reyes and Sons,1-10,Mid-Market,Healthcare,MA,2024-03-24,Content Marketing,True
+cust_0346896d,Perry LLC,1000+,Startup,Healthcare,SR,2024-06-29,Paid Search,True
+cust_fbc8def5,Brown-Wall,11-50,SMB,Technology,MW,2024-12-17,Referral,True
+cust_4270ee2d,"Shah, Smith and Gilmore",1000+,Enterprise,Manufacturing,TR,2024-05-27,Organic,True
+cust_712aff0f,Smith-Bell,201-1000,Enterprise,Media,GB,2024-05-31,Direct Sales,False
+cust_855d20f7,Medina-Navarro,1-10,Enterprise,Manufacturing,UY,2024-12-14,Organic,False
+cust_b2751f47,Freeman LLC,51-200,Enterprise,Media,NZ,2024-07-07,Referral,True
+cust_ea522bb5,Price Ltd,1000+,SMB,Manufacturing,GD,2024-11-05,Paid Search,True
+cust_9bdf499f,Ramsey-Pittman,201-1000,Startup,Manufacturing,CN,2024-08-29,Content Marketing,True
+cust_9a1ee81f,"Johnson, Long and Elliott",201-1000,SMB,Media,AR,2024-02-02,Referral,False
+cust_6f41ed76,"Patterson, Camacho and White",1000+,Startup,Manufacturing,IL,2024-05-27,Direct Sales,True
+cust_bbcf7b27,Lewis-Murphy,1-10,Startup,Retail,PS,2024-12-07,Referral,True
+cust_dfd833f2,Ramirez-Bean,201-1000,SMB,Technology,NL,2024-04-07,Content Marketing,True
+cust_85ef9f71,Ruiz Ltd,11-50,Enterprise,Finance,SR,2024-01-21,Content Marketing,True
+cust_7985d897,Walker-Jones,201-1000,Mid-Market,Media,CF,2024-01-16,Referral,True
+cust_d49ffa3c,Herring and Sons,1-10,Enterprise,Technology,AO,2024-08-29,Partner,True
+cust_0bf98b00,Allen Group,51-200,SMB,Retail,SV,2024-02-14,Organic,True
+cust_11fa17c6,"Gould, Marshall and Scott",1-10,Startup,Healthcare,MN,2024-03-06,Paid Search,True
+cust_e361a1c1,"Lawson, Adkins and Wilson",1000+,SMB,Healthcare,DK,2024-04-30,Paid Search,True
+cust_ff155598,Lane LLC,1-10,SMB,Manufacturing,TR,2024-09-20,Partner,True
+cust_4854d34f,Sanders-Espinoza,51-200,SMB,Education,BO,2024-08-17,Direct Sales,False
+cust_b89bc6f0,"Rivas, Sanchez and Terry",1-10,SMB,Finance,KI,2024-11-26,Organic,True
+cust_21d094fc,"Burke, Martinez and Riggs",51-200,Enterprise,Manufacturing,BB,2024-05-14,Partner,True
+cust_230f46fa,"Patterson, Wood and Hunter",1000+,SMB,Technology,LV,2024-01-05,Partner,True
+cust_25b36647,Short-Garcia,1000+,Startup,Media,ML,2024-09-03,Direct Sales,True
+cust_2010d26e,Zimmerman-Graham,51-200,Enterprise,Retail,ES,2024-07-21,Content Marketing,True
+cust_09725e8a,"Nelson, Morton and Medina",51-200,Startup,Media,RO,2024-06-29,Referral,True
+cust_5f7b2951,Petersen-Vargas,1-10,Enterprise,Finance,LI,2024-11-26,Partner,False
+cust_c8024434,Rivas Inc,201-1000,SMB,Manufacturing,IT,2024-12-08,Paid Search,True
+cust_35fdb08e,Sanchez-Marshall,51-200,Enterprise,Manufacturing,VA,2024-09-16,Referral,True
+cust_859be475,Rogers-Snyder,1000+,Mid-Market,Finance,LR,2024-03-11,Paid Search,True
+cust_cb5ef3fe,Lewis-Salinas,1-10,Mid-Market,Manufacturing,LV,2024-04-18,Paid Search,True
+cust_5433b413,"Haynes, Hill and Smith",1000+,Enterprise,Finance,ET,2024-02-03,Organic,True
+cust_945b8f31,Cortez Group,51-200,SMB,Manufacturing,TH,2024-10-21,Paid Search,True
+cust_7e3ea170,Vaughn Ltd,51-200,Mid-Market,Finance,LC,2024-07-09,Direct Sales,True
+cust_46ea8cb5,Mcguire-Davis,51-200,Startup,Education,GN,2024-06-06,Paid Search,True
+cust_334e9be4,"Sanchez, Beck and Wood",201-1000,Enterprise,Education,TG,2024-07-25,Paid Search,True
+cust_3cb2ebd9,Coleman-Reese,201-1000,Enterprise,Media,LS,2024-05-16,Organic,True
+cust_7d95abc4,"Chavez, Parker and Hall",11-50,Enterprise,Retail,WS,2024-03-15,Paid Search,True
+cust_3e58c247,Wilson-Herrera,1000+,Mid-Market,Manufacturing,FM,2024-03-12,Direct Sales,True
+cust_1024b8e6,Robinson Group,201-1000,Mid-Market,Finance,IS,2024-10-08,Partner,True
+cust_93e737dd,"Bray, Warren and Campbell",51-200,Mid-Market,Healthcare,BZ,2024-11-19,Organic,True
+cust_e228bdf9,Phillips LLC,51-200,Startup,Retail,EE,2024-04-27,Direct Sales,False
+cust_ab223c7c,Erickson and Sons,11-50,SMB,Healthcare,IS,2024-01-18,Partner,True
+cust_699a713d,Tran Ltd,1000+,Mid-Market,Technology,CN,2024-09-04,Paid Search,True
+cust_eb5790e0,Garcia-Smith,51-200,SMB,Finance,JM,2024-07-01,Organic,True
+cust_fa21f953,Alexander-Lopez,11-50,Mid-Market,Technology,BF,2024-04-08,Organic,True
+cust_ac5926d9,Wilson-Jones,11-50,Enterprise,Technology,RW,2024-01-29,Organic,True
+cust_ba916dcd,"Soto, Brown and Hernandez",201-1000,Enterprise,Manufacturing,TM,2024-04-27,Content Marketing,True
+cust_699b3bb5,Mcknight Inc,1-10,Mid-Market,Media,TH,2024-10-23,Referral,True
+cust_d4716d1e,Obrien-Gibbs,1-10,Enterprise,Manufacturing,GR,2024-10-28,Organic,True
+cust_c9b9f814,"James, Kerr and Evans",1-10,SMB,Healthcare,TZ,2024-06-15,Direct Sales,False
+cust_c268754e,Carroll-Brown,1-10,SMB,Technology,SZ,2024-02-08,Direct Sales,True
+cust_534b2eeb,Garrett LLC,1000+,SMB,Media,HR,2024-02-01,Direct Sales,True
+cust_75f76120,Allen PLC,201-1000,Mid-Market,Media,BO,2024-03-01,Direct Sales,False
+cust_281fd315,Ortiz Ltd,51-200,Startup,Education,UG,2024-07-01,Partner,True
+cust_9f02be47,Johnson-Roberts,11-50,SMB,Finance,JM,2024-09-30,Partner,True
+cust_f65bda66,Jones-Hall,11-50,SMB,Education,IN,2024-11-01,Organic,True
+cust_c93e089d,"Lawrence, Lara and Gonzalez",201-1000,Enterprise,Retail,CI,2024-07-30,Direct Sales,True
+cust_dcb7dcfa,Holland LLC,1-10,SMB,Finance,CV,2024-01-28,Partner,True
+cust_7d93bfaa,Martin LLC,201-1000,Startup,Retail,UG,2024-10-17,Paid Search,False
+cust_fda59f86,"Morse, Gonzales and Harrison",1000+,SMB,Manufacturing,KI,2024-09-28,Organic,True
+cust_1fd94ccf,Bender-Mason,11-50,Mid-Market,Media,SA,2024-06-19,Paid Search,True
+cust_5b1f23d1,George Group,11-50,Mid-Market,Education,LK,2024-05-05,Partner,True
+cust_dfb18497,"Wright, Davis and Hayden",51-200,Enterprise,Technology,TR,2024-08-16,Referral,True
+cust_302f1e7e,Key Ltd,201-1000,Mid-Market,Education,IQ,2024-08-11,Direct Sales,True
+cust_cf62a510,Hines and Sons,1-10,Startup,Manufacturing,PW,2024-07-20,Partner,True
+cust_974c3120,"Ramos, Ramirez and Shea",51-200,Startup,Technology,NZ,2024-09-03,Paid Search,False
+cust_e234a756,Costa-Harrison,1000+,Startup,Media,NE,2024-05-09,Partner,True
+cust_31e3d862,Santiago-Hodge,1000+,Startup,Media,LS,2024-06-08,Paid Search,True
+cust_da5aa49e,"Simpson, Bates and Morales",201-1000,Mid-Market,Healthcare,PS,2024-08-01,Direct Sales,True
+cust_e8de425b,Gibson LLC,201-1000,Startup,Manufacturing,ID,2024-05-05,Content Marketing,True
+cust_6d30a105,Cordova Group,51-200,Startup,Media,SG,2024-11-16,Paid Search,True
+cust_bb552bf3,Sandoval PLC,201-1000,Mid-Market,Retail,PL,2024-06-09,Referral,True
+cust_05c6e2b0,Lopez LLC,1000+,Startup,Manufacturing,VU,2024-10-20,Organic,True
+cust_7da9c58c,Garrett-Wolf,51-200,Startup,Media,GA,2024-04-13,Referral,False
+cust_c693305b,"Anderson, Roberts and Gilmore",1-10,Enterprise,Manufacturing,RU,2024-02-17,Organic,True
+cust_fda37853,Dudley PLC,51-200,Enterprise,Retail,GY,2024-10-02,Referral,True
+cust_cfc3dba1,Collins Inc,11-50,Mid-Market,Education,TG,2024-06-07,Paid Search,False
+cust_0ed77fff,Walker Inc,201-1000,Enterprise,Technology,PL,2024-02-15,Organic,False
+cust_6dedbf19,"Collier, Jimenez and Moran",1000+,SMB,Retail,SE,2024-09-30,Paid Search,True
+cust_6413c288,Perry-Olson,1-10,Enterprise,Technology,PW,2024-04-04,Paid Search,False
+cust_20cd8afb,Arnold-Reyes,1-10,Enterprise,Technology,US,2024-07-16,Partner,True
+cust_10ee9ef9,"Suarez, Shields and Hill",201-1000,Mid-Market,Education,NI,2024-05-11,Partner,True
+cust_ac8be4c1,"Adams, Smith and Barber",201-1000,Enterprise,Healthcare,TZ,2024-08-13,Referral,True
+cust_931e01b3,"Burns, Hernandez and Ryan",201-1000,SMB,Education,LY,2024-05-09,Direct Sales,True
+cust_f6c56b6c,"Hines, Bennett and Cantu",11-50,Startup,Finance,ET,2024-09-27,Referral,True
+cust_baaca5c1,Armstrong and Sons,1000+,Mid-Market,Media,NG,2024-01-17,Organic,True
+cust_f52cbab8,Garner-Thornton,51-200,Enterprise,Media,MU,2024-05-29,Paid Search,True
+cust_433d0953,"Sparks, Pearson and Hernandez",201-1000,Mid-Market,Finance,AZ,2024-02-19,Direct Sales,True
+cust_8e4bc82b,"Sanford, Rivera and Garcia",201-1000,Enterprise,Finance,OM,2024-02-08,Paid Search,False
+cust_47f066bd,"Lozano, Smith and Thomas",11-50,Enterprise,Healthcare,TD,2024-02-29,Referral,True
+cust_fcf2c25f,Harrison LLC,201-1000,Enterprise,Manufacturing,LU,2024-08-30,Partner,True
+cust_a831d5d4,"Sanders, Miller and Murphy",11-50,Enterprise,Technology,GQ,2024-11-29,Paid Search,True
+cust_369ba96c,"James, Stewart and Higgins",1000+,Mid-Market,Media,PS,2024-07-08,Organic,False
+cust_6894b27f,"Johnson, Jones and Welch",201-1000,Startup,Education,JO,2024-03-29,Referral,True
+cust_ccfacb38,"Davis, Good and Hodges",11-50,Enterprise,Media,MA,2024-12-04,Partner,False
+cust_2be6888e,Wallace Ltd,1-10,Enterprise,Media,KG,2024-12-16,Content Marketing,True
+cust_dc3618a5,Williams Inc,201-1000,Startup,Media,KE,2024-05-19,Content Marketing,False
+cust_edaada8d,Jordan-Sanchez,1000+,Enterprise,Finance,NG,2024-08-07,Partner,True
+cust_35d86521,"Sparks, Jackson and Miller",201-1000,Startup,Education,MU,2024-08-28,Organic,True
+cust_c6a0aac3,"Allen, Durham and Thomas",51-200,SMB,Retail,PL,2024-09-04,Organic,True
+cust_0a7ec617,Stevens-Estrada,1-10,Startup,Manufacturing,PT,2024-12-15,Paid Search,True
+cust_3a50ef6b,Byrd-Moore,1-10,Startup,Finance,PA,2024-05-14,Organic,True
+cust_56047972,"Evans, Hayden and Vaughn",51-200,Enterprise,Healthcare,PH,2024-11-24,Paid Search,True
+cust_83e9f22b,Gonzalez-Cruz,1000+,SMB,Healthcare,RO,2024-02-11,Paid Search,True
+cust_a1517f17,James LLC,201-1000,SMB,Manufacturing,TR,2024-04-24,Direct Sales,True
+cust_db381b67,"Phillips, Spence and Barrett",201-1000,Mid-Market,Manufacturing,IS,2024-01-04,Content Marketing,True
+cust_cc9a6918,"Grimes, Osborne and Beltran",201-1000,Mid-Market,Retail,UZ,2024-10-16,Direct Sales,True
+cust_1b0bae38,Wall-Leach,201-1000,Mid-Market,Education,GT,2024-08-23,Content Marketing,True
+cust_94389f15,Robinson-Lee,201-1000,Mid-Market,Manufacturing,ID,2024-09-20,Content Marketing,True
+cust_48f0bd38,"Saunders, Becker and Taylor",201-1000,Enterprise,Technology,BY,2024-12-16,Paid Search,True
+cust_b4aa01c5,"Lucas, Parker and Alexander",51-200,Mid-Market,Retail,TT,2024-05-21,Content Marketing,True
+cust_9daeea60,"Anderson, Browning and Murphy",201-1000,Mid-Market,Technology,NI,2024-03-09,Direct Sales,False
+cust_56d5c3a3,Anderson PLC,1-10,Enterprise,Media,MM,2024-07-25,Content Marketing,True
+cust_9f87e7d4,"Mcintyre, Rivas and Scott",11-50,Mid-Market,Healthcare,RO,2024-11-09,Partner,True
+cust_2afc1fc1,Francis-Morgan,51-200,SMB,Retail,CI,2024-06-30,Organic,False
+cust_762a34c9,Taylor and Sons,1-10,Mid-Market,Media,GD,2024-10-08,Referral,True
+cust_e34a20f8,"Whitney, Coffey and Ballard",51-200,SMB,Technology,MM,2024-02-05,Content Marketing,True
+cust_b52c995e,Smith-Herrera,201-1000,SMB,Healthcare,PH,2024-05-23,Paid Search,True
+cust_14707aec,"Curry, Baker and James",51-200,Mid-Market,Media,DZ,2024-05-24,Paid Search,True
+cust_e23de2a1,Leonard Group,201-1000,Mid-Market,Retail,AR,2024-08-28,Content Marketing,True
+cust_c90be39a,"Murphy, Bishop and Holland",201-1000,Startup,Healthcare,ZW,2024-11-15,Paid Search,False
+cust_46e4298c,Blankenship-Turner,201-1000,Mid-Market,Technology,NE,2024-02-15,Referral,True
+cust_e3589745,Williams Inc,1000+,Startup,Manufacturing,KI,2024-07-10,Content Marketing,True
+cust_50339ab2,Davis PLC,51-200,Enterprise,Media,CR,2024-05-30,Partner,False
+cust_4c82528f,Watson-Avery,1-10,SMB,Manufacturing,MC,2024-07-28,Organic,True
+cust_10c39b6d,Matthews-Barber,1000+,Mid-Market,Education,NI,2024-09-11,Paid Search,True
+cust_b258bf7d,Bass PLC,201-1000,Mid-Market,Retail,NE,2024-12-30,Referral,True
+cust_6613ddf6,Johnson-Wood,1-10,Startup,Finance,PA,2024-06-21,Referral,True
+cust_17e23f43,Foley Inc,11-50,SMB,Manufacturing,LA,2024-05-22,Referral,True
+cust_7d65741d,"Winters, Newman and Brown",1000+,Enterprise,Education,IS,2024-03-14,Partner,True
+cust_dd037174,Rush Group,201-1000,Startup,Media,BW,2024-09-14,Referral,True
+cust_430bf969,May PLC,51-200,Startup,Retail,AO,2024-01-20,Content Marketing,True
+cust_94bf8fb9,Sanchez-Martinez,201-1000,SMB,Media,TM,2024-03-20,Content Marketing,True
+cust_07969c32,Gallegos PLC,51-200,Mid-Market,Technology,GE,2024-08-15,Referral,True
+cust_6c65b922,Li and Sons,1-10,Enterprise,Technology,LS,2024-10-27,Partner,True
+cust_12f6ed06,Kramer PLC,1000+,Startup,Technology,AD,2024-04-17,Content Marketing,True
+cust_2a6b052e,Huerta PLC,11-50,SMB,Technology,ID,2024-11-06,Direct Sales,True
+cust_ebc81cac,Rodriguez Inc,11-50,SMB,Finance,CO,2024-01-06,Paid Search,True
+cust_04de41fe,Tyler-Young,1000+,Startup,Finance,LI,2024-01-07,Paid Search,False
+cust_0d0cf18d,Baker and Sons,1000+,Mid-Market,Media,SZ,2024-06-12,Paid Search,True
+cust_bc639b01,"Wilson, Brown and West",1-10,SMB,Technology,ML,2024-07-18,Content Marketing,True
+cust_009ad3d2,"Rodriguez, Gordon and Dougherty",11-50,Mid-Market,Technology,BD,2024-10-09,Paid Search,True
+cust_69c4a875,"Boyd, Ellis and Maynard",11-50,Enterprise,Education,BH,2024-07-05,Organic,True
+cust_7189601b,Simmons-Rodriguez,201-1000,Enterprise,Media,LC,2024-12-19,Content Marketing,True
+cust_813851c2,Jones-Miller,1-10,Enterprise,Education,UZ,2024-02-27,Paid Search,False
+cust_5f46c651,Martinez PLC,1-10,Mid-Market,Manufacturing,ZW,2024-08-15,Partner,False
+cust_adf37d10,"Joseph, James and Harper",1-10,Enterprise,Media,KE,2024-06-25,Referral,True
+cust_95c9dd83,"Jacobs, Garcia and Miles",1-10,Enterprise,Retail,TD,2024-09-09,Referral,True
+cust_5a875668,"Le, Lewis and Hayes",1-10,Mid-Market,Education,GT,2024-06-09,Paid Search,True
+cust_25f8a696,Wilcox-Ross,51-200,Mid-Market,Manufacturing,ZA,2024-02-06,Direct Sales,True
+cust_d8cb91af,Simmons-Ortega,201-1000,Enterprise,Technology,MR,2024-02-29,Partner,True
+cust_ec5d96a2,"Leblanc, Jones and Decker",1000+,SMB,Manufacturing,BW,2024-06-16,Referral,False
+cust_9ed24e0e,Garner LLC,201-1000,Mid-Market,Media,CO,2024-08-04,Referral,True
+cust_ffa6b53b,Willis PLC,1-10,Mid-Market,Manufacturing,TJ,2024-05-08,Content Marketing,True
+cust_15668508,"Martinez, Gomez and Ortega",51-200,SMB,Retail,GB,2024-06-13,Referral,True
+cust_ff1763f0,"Williams, Roberts and Edwards",1-10,Startup,Manufacturing,CA,2024-08-12,Organic,True
+cust_6ee8844a,"Lewis, Douglas and Walker",51-200,SMB,Education,CD,2024-05-15,Organic,True
+cust_a27db5e6,"Richardson, Farmer and Andrews",1000+,Mid-Market,Retail,NP,2024-11-24,Organic,True
+cust_e35f225b,"Villegas, Cardenas and Austin",201-1000,Startup,Finance,BA,2024-08-04,Direct Sales,True
+cust_5534ea62,Lynch Ltd,1-10,SMB,Healthcare,MD,2024-04-13,Partner,True
+cust_0621259b,White Ltd,1-10,Mid-Market,Media,KR,2024-12-23,Direct Sales,True
+cust_066e0411,Bell-White,51-200,SMB,Media,CV,2024-08-07,Referral,True
+cust_c4dc8396,"Morales, Thomas and Schultz",1000+,Startup,Education,AT,2024-02-05,Partner,True
+cust_42d7575f,"Moreno, Bennett and Chavez",51-200,Startup,Healthcare,DJ,2024-05-23,Content Marketing,True
+cust_4ada5024,Griffith-Frank,51-200,Mid-Market,Finance,TN,2024-08-19,Organic,True
+cust_7da6af1c,Ware and Sons,11-50,Enterprise,Technology,DJ,2024-10-19,Paid Search,True
+cust_9f2b42ad,"Williams, Miller and Ramos",1-10,Startup,Retail,NO,2024-07-07,Direct Sales,True
+cust_865e54f0,"Ramos, Nelson and Fischer",201-1000,Enterprise,Finance,CI,2024-05-14,Paid Search,True
+cust_75099fd8,Rodriguez-Gregory,51-200,Startup,Technology,UA,2024-07-07,Paid Search,True
+cust_1746fa94,"Estrada, Williams and Foster",1000+,Startup,Retail,US,2024-01-22,Organic,True
+cust_bff6d679,Harris and Sons,201-1000,Enterprise,Education,CU,2024-10-23,Referral,True
+cust_2f3bb466,Roberts-Wilson,11-50,Startup,Finance,SB,2024-10-17,Referral,True
+cust_f83537f1,Thompson-James,1000+,Enterprise,Education,MA,2024-03-30,Partner,True
+cust_f3d50569,"Hansen, Barnett and Gomez",11-50,Enterprise,Education,MY,2024-11-30,Organic,True
+cust_6d4260ff,"Williams, Smith and Morse",51-200,SMB,Media,KW,2024-08-11,Paid Search,True
+cust_d5a9ea0e,Berry-Mckinney,51-200,Mid-Market,Technology,NI,2024-04-22,Organic,True
+cust_c196849f,Sullivan LLC,201-1000,SMB,Healthcare,DO,2024-11-07,Referral,True
+cust_a52d6d48,"Stevens, Norris and Cox",11-50,Mid-Market,Technology,NZ,2024-11-23,Referral,False
+cust_024e6d1b,Sanchez PLC,1-10,Enterprise,Technology,MZ,2024-07-22,Referral,False
+cust_8d4a1683,Foster LLC,51-200,Enterprise,Education,CH,2024-05-11,Referral,True
+cust_5d20f6ff,Cook and Sons,201-1000,Mid-Market,Technology,BO,2024-07-17,Referral,True
+cust_5d2223cf,"Wilson, Hicks and Bullock",51-200,SMB,Media,MG,2024-05-16,Direct Sales,True
+cust_0ff893a6,"Mullen, Brewer and Hernandez",51-200,Startup,Manufacturing,CA,2024-02-26,Organic,True
+cust_b2b43ae1,Gonzalez-Morrison,1000+,Enterprise,Education,PS,2024-10-21,Organic,True
+cust_3b344ae5,"Jones, Bean and Burton",51-200,Mid-Market,Healthcare,PL,2024-10-19,Content Marketing,True
+cust_e5d7da91,"Wolf, Cole and Glass",1-10,Startup,Education,TM,2024-09-06,Direct Sales,True
+cust_8ea4faec,"Downs, Morris and Maddox",51-200,Mid-Market,Retail,KW,2024-02-28,Partner,True
+cust_2993ecfe,Jones-Ramos,11-50,Startup,Healthcare,KI,2024-11-05,Content Marketing,True
+cust_edb79cbb,Vargas-Bell,1000+,SMB,Media,BN,2024-04-30,Partner,True
+cust_9199937c,Hayes-Brown,201-1000,Enterprise,Media,JO,2024-01-30,Direct Sales,True
+cust_fc19a3c1,"Lin, Wyatt and Gilbert",201-1000,Mid-Market,Media,SD,2024-05-29,Partner,True
+cust_d0967e15,Carpenter-Best,201-1000,Startup,Manufacturing,SZ,2024-12-13,Referral,True
+cust_92e14bac,Cole PLC,51-200,Startup,Finance,CF,2024-03-14,Direct Sales,True
+cust_1f7854dd,Jacobs-Mason,201-1000,Enterprise,Technology,BH,2024-06-23,Organic,True
+cust_f5b6361f,Shepherd LLC,51-200,Startup,Retail,LC,2024-02-02,Organic,True
+cust_d12b34f3,"Lucas, Williams and Zimmerman",1000+,Enterprise,Manufacturing,OM,2024-07-22,Direct Sales,True
+cust_e15dfc45,"Bishop, Cox and Hardin",1-10,Enterprise,Media,MW,2024-06-07,Direct Sales,True
+cust_9c03bd03,Shelton-Williams,51-200,Enterprise,Education,ZM,2024-09-08,Paid Search,False
+cust_7a067314,Jones-Davis,201-1000,Startup,Media,GD,2024-05-30,Content Marketing,False
+cust_de7bbebe,King-York,1-10,SMB,Technology,UY,2024-12-05,Paid Search,True
+cust_44e5def4,Cook PLC,201-1000,SMB,Finance,HR,2024-02-24,Content Marketing,False
+cust_3b58003e,Collins-Douglas,201-1000,Enterprise,Media,HR,2024-06-01,Content Marketing,True
+cust_77f56fa3,Larson Inc,1-10,Mid-Market,Technology,KR,2024-08-05,Content Marketing,True
+cust_4b145481,Schneider-Murphy,201-1000,Mid-Market,Finance,CN,2024-09-17,Partner,False
+cust_747856e2,"Calderon, Rodgers and Jennings",1000+,SMB,Finance,SL,2024-02-06,Organic,True
+cust_faa598f1,"Santiago, Romero and Smith",11-50,Mid-Market,Finance,KR,2024-03-11,Partner,True
+cust_ca921ca1,Peterson Group,201-1000,SMB,Education,FI,2024-03-28,Partner,False
+cust_eb3700f5,Moore LLC,51-200,Enterprise,Retail,BZ,2024-07-16,Content Marketing,True
+cust_551e0c54,"Conley, Stephenson and Johnson",1000+,Startup,Retail,LU,2024-12-06,Partner,True
+cust_d233633e,"Anderson, Bennett and Martin",51-200,Startup,Finance,MD,2024-10-26,Content Marketing,True
+cust_39e88fe7,"Lamb, Martin and Kim",11-50,Mid-Market,Media,NG,2024-05-21,Referral,True
+cust_9430fdc9,"Ball, Montes and Bishop",11-50,SMB,Technology,GB,2024-10-17,Content Marketing,True
+cust_48107483,Young-Allen,1-10,Startup,Retail,PW,2024-12-17,Content Marketing,False
+cust_56797f9d,Richardson PLC,1000+,SMB,Education,OM,2024-06-28,Referral,True
+cust_f92a4ca6,Strickland-Shaw,11-50,SMB,Retail,NL,2024-03-03,Referral,True
+cust_d15e1014,Solis and Sons,51-200,SMB,Manufacturing,ID,2024-01-21,Direct Sales,True
+cust_7bcbc921,"Castillo, Watson and Villa",201-1000,SMB,Education,LC,2024-11-24,Paid Search,True
+cust_4a820903,"Rosales, Mitchell and Hines",201-1000,SMB,Finance,IR,2024-06-23,Partner,False
+cust_8e0604f2,"Hernandez, Kim and Potts",201-1000,Enterprise,Media,GN,2024-11-13,Content Marketing,True
+cust_10743187,Wilkerson-Arias,1000+,Enterprise,Healthcare,NI,2024-01-21,Paid Search,True
+cust_0895ecb2,Shaw-Young,11-50,Mid-Market,Technology,BR,2024-05-25,Partner,True
+cust_b420dd78,Johnson Inc,51-200,Startup,Retail,LC,2024-09-09,Direct Sales,False
+cust_0c6e36ed,Moody-Taylor,51-200,Startup,Media,JO,2024-12-22,Paid Search,True
+cust_eca7636b,Horton-Taylor,1000+,SMB,Media,MA,2024-07-01,Referral,True
+cust_103f8f36,Gilbert-Bullock,11-50,Enterprise,Finance,AM,2024-04-09,Organic,True
+cust_25989bee,Conley PLC,201-1000,Mid-Market,Healthcare,ZA,2024-08-24,Referral,False
+cust_4b7a0ef2,"Henderson, Parsons and Young",51-200,SMB,Technology,CM,2024-01-19,Content Marketing,False
+cust_c04458f5,Barnes PLC,51-200,SMB,Healthcare,PK,2024-01-25,Organic,True
+cust_fad6b804,Copeland Group,201-1000,SMB,Media,UG,2024-07-27,Partner,True
+cust_256437d7,Chen PLC,1000+,Startup,Technology,GY,2024-10-06,Organic,True
+cust_3cba1ff6,Carter Inc,11-50,Enterprise,Technology,VE,2024-05-17,Content Marketing,True
+cust_408dbc4b,Duncan and Sons,1-10,Startup,Healthcare,TL,2024-09-16,Referral,True
+cust_eee9f32f,Mills LLC,1000+,Enterprise,Technology,BJ,2024-07-23,Organic,True
+cust_5c10fbcc,"Romero, Mcneil and Spencer",201-1000,Startup,Retail,MW,2024-12-05,Direct Sales,True
+cust_69fbbd0a,Williams-Hughes,11-50,Mid-Market,Manufacturing,MR,2024-04-08,Organic,True
+cust_39bc74e4,"Smith, Kramer and Cooper",11-50,Enterprise,Healthcare,ES,2024-09-12,Partner,True
+cust_00319f44,"Garcia, Perkins and Sherman",1000+,Mid-Market,Technology,CR,2024-01-18,Direct Sales,True
+cust_4fcbc7e2,Payne-Li,1000+,Startup,Manufacturing,EC,2024-11-18,Referral,True
+cust_8f76554f,"Marshall, Dominguez and Welch",201-1000,Mid-Market,Finance,CR,2024-01-25,Partner,True
+cust_076a1722,"Parsons, Ellis and Carter",1-10,Mid-Market,Healthcare,BD,2024-11-03,Partner,True
+cust_e49db1d1,Blackwell LLC,1-10,Mid-Market,Healthcare,KR,2024-07-19,Organic,True
+cust_1dde73f3,Hays-Daniels,51-200,SMB,Media,ID,2024-01-15,Partner,True
+cust_46ed91c3,"Lee, Kelly and Norman",201-1000,SMB,Media,TD,2024-05-08,Paid Search,True
+cust_76e1e38a,Martinez-Richardson,201-1000,Startup,Finance,MZ,2024-10-15,Paid Search,True
+cust_ba2a808c,Kline-Hughes,11-50,Startup,Finance,ER,2024-07-11,Content Marketing,True
+cust_d3d3ced4,"Jimenez, Glass and Stone",1000+,Enterprise,Finance,BS,2024-10-09,Organic,True
+cust_b72c4e17,Miller-Morrison,11-50,Mid-Market,Finance,EG,2024-07-30,Organic,False
+cust_b0adf157,Morris-Miller,51-200,Mid-Market,Technology,HR,2024-04-24,Content Marketing,True
+cust_674e096e,Griffin-Robbins,201-1000,Enterprise,Manufacturing,DM,2024-09-24,Content Marketing,False
+cust_51289935,Bell-Williams,201-1000,Enterprise,Finance,MH,2024-08-26,Direct Sales,True
+cust_1c2d8b35,Hill-Whitney,1-10,Enterprise,Technology,BG,2024-01-30,Referral,True
+cust_06aecda5,"Walsh, Cox and Owen",11-50,Mid-Market,Finance,GD,2024-03-03,Organic,True
+cust_6ff66005,Thomas PLC,51-200,Mid-Market,Manufacturing,GD,2024-10-30,Direct Sales,True
+cust_33e71b67,Johnson-Jones,11-50,Enterprise,Finance,KH,2024-05-22,Referral,True
+cust_a319d4cd,Reyes-Bradley,51-200,Enterprise,Finance,UY,2024-02-29,Partner,False
+cust_14ad87fd,"Cole, Watson and Wallace",1-10,Startup,Retail,BO,2024-08-10,Partner,True
+cust_00747296,Moreno Group,1000+,SMB,Technology,KW,2024-09-09,Paid Search,True
+cust_bdbd0a3f,Wright-Wilson,201-1000,Startup,Healthcare,LK,2024-03-13,Organic,True
+cust_d00b4ec6,Holmes-Mcintyre,51-200,Mid-Market,Manufacturing,CL,2024-04-11,Direct Sales,True
+cust_10590a96,Padilla-Lewis,11-50,Enterprise,Finance,VA,2024-04-20,Content Marketing,True
+cust_b1d8be47,"Hendricks, Henry and Martinez",1-10,SMB,Education,BN,2024-06-24,Content Marketing,True
+cust_b0481b3d,Roach Group,51-200,SMB,Technology,BT,2024-11-10,Organic,True
+cust_348904d9,"Ponce, Downs and Contreras",201-1000,Enterprise,Education,KN,2024-01-26,Organic,True
+cust_e3a25ed9,"Daniels, Vance and York",51-200,Enterprise,Healthcare,LC,2024-10-02,Direct Sales,True
+cust_e7db6853,"Little, Leon and Hicks",201-1000,SMB,Technology,CM,2024-03-19,Paid Search,False
+cust_0ff6c645,Young Group,201-1000,SMB,Retail,AR,2024-05-20,Referral,False
+cust_13f81f47,"Armstrong, Mcdonald and Bird",51-200,Mid-Market,Retail,CO,2024-08-25,Organic,True
+cust_2ea6ef14,Jones Group,51-200,Mid-Market,Media,VC,2024-10-06,Paid Search,True
+cust_61ce1c05,Fox-Hammond,11-50,Mid-Market,Education,TR,2024-01-29,Paid Search,True
+cust_a318d834,Compton Ltd,11-50,SMB,Healthcare,BN,2024-06-23,Referral,True
+cust_1b24dbce,Frazier-Cooper,1000+,Mid-Market,Manufacturing,TG,2024-09-05,Direct Sales,True
+cust_6e4c0342,"White, Burch and Reynolds",1-10,Startup,Finance,BG,2024-11-18,Referral,False
+cust_46cc5093,Holmes LLC,201-1000,Enterprise,Media,DM,2024-03-03,Referral,True
+cust_3415c7f3,Donovan-Perez,1-10,SMB,Finance,SI,2024-12-13,Partner,True
+cust_746b2392,Singleton-King,201-1000,Mid-Market,Healthcare,ZW,2024-08-01,Direct Sales,True
+cust_f6cf84d1,Martinez-Turner,11-50,SMB,Manufacturing,SN,2024-02-06,Direct Sales,False
+cust_928a7251,"Davidson, Vargas and Carpenter",1-10,Startup,Education,DO,2024-09-12,Paid Search,True
+cust_7a983ccb,"Le, Jacobs and Kirby",11-50,Mid-Market,Retail,TM,2024-01-16,Paid Search,True
+cust_dfdecb33,Miller Ltd,1000+,Mid-Market,Media,TR,2024-04-12,Organic,True
+cust_674ec61a,"Clark, Armstrong and Montgomery",1000+,Mid-Market,Healthcare,AT,2024-07-12,Partner,True
+cust_6f6e93c0,"Gardner, May and Turner",1000+,Startup,Education,HN,2024-11-08,Partner,True
+cust_4091a2e9,"Sullivan, Chavez and Barker",1000+,SMB,Healthcare,DJ,2024-06-19,Partner,True
+cust_15509fc0,Washington-Harris,1000+,Mid-Market,Media,UZ,2024-02-25,Direct Sales,True
+cust_8d47e84e,Hensley-Flores,1-10,Startup,Technology,LY,2024-06-03,Partner,True
+cust_0cc98de0,Hodges PLC,51-200,SMB,Media,TJ,2024-02-11,Direct Sales,True
+cust_76593aaf,Allen-Martinez,1-10,Enterprise,Retail,PG,2024-04-06,Direct Sales,True
+cust_5e784b64,Davis LLC,51-200,Enterprise,Healthcare,MV,2024-12-01,Partner,True
+cust_5f830ee5,"Barnes, Estes and Barrera",201-1000,Startup,Retail,LR,2024-12-28,Organic,True
+cust_5b52c7a0,"Griffith, Lee and Moore",201-1000,Enterprise,Manufacturing,SG,2024-06-30,Paid Search,True
+cust_95c5830f,Koch-Jimenez,11-50,Mid-Market,Media,BW,2024-06-01,Partner,True
+cust_7f9edff8,"Bryant, Allen and Aguilar",51-200,Enterprise,Healthcare,BE,2024-01-20,Content Marketing,True
+cust_fe21d6a8,Simpson-Khan,1-10,Mid-Market,Healthcare,TD,2024-09-18,Referral,True
+cust_3c14d96a,Mitchell-Smith,201-1000,SMB,Healthcare,CD,2024-06-16,Organic,True
+cust_a80bbe11,Khan Ltd,201-1000,Enterprise,Healthcare,MM,2024-10-23,Paid Search,True
+cust_e7153d82,Diaz-Morales,1000+,Mid-Market,Healthcare,TN,2024-08-06,Paid Search,True
+cust_6495d7d6,Cox LLC,1000+,Enterprise,Manufacturing,BN,2024-05-30,Content Marketing,True
+cust_e7f6c0f2,"Cole, Pierce and Bryan",1-10,Enterprise,Education,VU,2024-09-21,Referral,False
+cust_634d9f0d,"Wilson, Hester and Long",11-50,Mid-Market,Technology,LU,2024-08-04,Organic,True
+cust_bbfe788f,Fischer-Gonzalez,1000+,Enterprise,Finance,SE,2024-06-04,Direct Sales,True
+cust_c51c6758,"Williams, Williams and Reeves",1-10,Enterprise,Healthcare,PY,2024-07-20,Content Marketing,True
+cust_7a7fe023,Hernandez-Barry,201-1000,Mid-Market,Technology,CU,2024-05-07,Referral,True
+cust_ac0edcdc,"Flores, Long and Jensen",1000+,SMB,Finance,KG,2024-08-18,Direct Sales,True
+cust_51154bc1,Romero-Hicks,201-1000,Enterprise,Media,RW,2024-10-02,Direct Sales,True
+cust_efb7481b,"Evans, Cabrera and Richardson",1000+,Startup,Healthcare,GQ,2024-02-12,Organic,True
+cust_67db93d0,Silva-Robles,51-200,Mid-Market,Media,RS,2024-12-04,Paid Search,True
+cust_4c2dd847,"Soto, Carlson and Baker",1000+,Enterprise,Education,TD,2024-10-31,Organic,True
+cust_4d3bd766,"Lane, Griffith and Silva",11-50,Mid-Market,Media,DO,2024-07-22,Referral,True
+cust_639f4ae4,"Griffith, Hampton and James",11-50,SMB,Finance,KZ,2024-04-04,Direct Sales,True
+cust_da7ad8ec,Armstrong Ltd,201-1000,Mid-Market,Education,CG,2024-03-15,Content Marketing,True
+cust_7811efdd,Alexander Group,1000+,Enterprise,Retail,CZ,2024-06-09,Direct Sales,True
+cust_65d64a65,"Harris, Shaw and Carr",1-10,Mid-Market,Finance,PW,2024-12-04,Partner,True
+cust_87db1ba2,"Luna, Thornton and Stone",201-1000,Mid-Market,Media,TJ,2024-05-06,Partner,False
+cust_99f29e6f,"Mendoza, Bennett and Frye",1-10,Enterprise,Finance,PK,2024-12-20,Partner,True
+cust_c7b40989,"Peterson, Gomez and Ingram",1000+,SMB,Retail,WS,2024-09-21,Organic,True
+cust_44cddc06,"Lara, Baker and Washington",11-50,Enterprise,Healthcare,HU,2024-04-18,Partner,True
+cust_2a8fc904,"Evans, David and Hendrix",1000+,Startup,Healthcare,JO,2024-09-30,Organic,True
+cust_544ab9cf,Vaughn Group,201-1000,SMB,Manufacturing,LB,2024-07-05,Partner,True
+cust_9257eb5f,Castro-Michael,1000+,Enterprise,Media,WS,2024-04-16,Partner,True
+cust_19cd404a,Martinez-Rhodes,11-50,SMB,Education,MU,2024-12-13,Content Marketing,False
+cust_543cd7b8,Cardenas-Blevins,201-1000,Enterprise,Finance,CY,2024-04-22,Paid Search,True
+cust_8a64d1e0,Roberts Ltd,1000+,Mid-Market,Education,BR,2024-05-14,Content Marketing,True
+cust_5572caeb,Douglas-Burgess,51-200,Enterprise,Healthcare,GH,2024-03-19,Paid Search,True
+cust_288285f6,"Nelson, Hoffman and Nelson",51-200,SMB,Finance,CD,2024-08-27,Content Marketing,True
+cust_0db7ca3d,"Matthews, Sanchez and Santiago",201-1000,Mid-Market,Manufacturing,SM,2024-03-28,Content Marketing,True
+cust_d8cd46af,"Hall, Garcia and Rivera",51-200,Mid-Market,Technology,PW,2024-02-09,Direct Sales,True
+cust_99813cf7,"Townsend, Smith and Pierce",201-1000,Enterprise,Media,DJ,2024-06-07,Content Marketing,False
+cust_95f5f080,"Donovan, Johns and Woods",11-50,Mid-Market,Technology,FR,2024-10-20,Content Marketing,False
+cust_c3a6aa59,Morris-Brewer,1-10,Mid-Market,Manufacturing,BT,2024-09-10,Partner,True
+cust_a7b71878,"Hall, Rodgers and Jefferson",201-1000,SMB,Healthcare,AZ,2024-12-20,Direct Sales,True
+cust_7f334885,Butler and Sons,1000+,Mid-Market,Healthcare,AZ,2024-11-20,Organic,True
+cust_6ff7c7e1,French-Lopez,1000+,SMB,Healthcare,AE,2024-12-04,Organic,True
+cust_621afa69,Mcdowell-Smith,1000+,SMB,Retail,TN,2024-08-22,Paid Search,True
+cust_3ef59f44,Hebert LLC,201-1000,Mid-Market,Retail,JM,2024-06-25,Referral,True
+cust_618a6cf8,"Daniels, Snyder and Mays",11-50,Startup,Education,SD,2024-06-30,Paid Search,True
+cust_1cd92b29,Lee-Rodriguez,201-1000,Enterprise,Retail,DK,2024-10-10,Paid Search,True
+cust_a888c0cf,Wong-Higgins,51-200,Mid-Market,Finance,AL,2024-10-13,Partner,True
+cust_4c72ff14,Gibbs-Bradley,1-10,SMB,Education,TW,2024-03-16,Partner,True
+cust_0148e8ff,Carr Ltd,1-10,SMB,Manufacturing,NA,2024-11-17,Paid Search,False
+cust_cb8e09ec,Robertson-Miller,1-10,Enterprise,Media,SV,2024-02-07,Referral,True
+cust_852f36ae,Holden Group,51-200,Startup,Technology,LI,2024-12-29,Content Marketing,True
+cust_6b7cc6ae,Smith Group,1-10,Mid-Market,Finance,GW,2024-06-22,Referral,False
+cust_e8cd5e12,Finley-Turner,1000+,Enterprise,Healthcare,RS,2024-08-10,Direct Sales,True
+cust_41a7bd2d,Green LLC,11-50,Startup,Finance,MD,2024-04-01,Paid Search,True
+cust_cf9e3ba7,Contreras Group,51-200,SMB,Technology,KP,2024-03-03,Partner,True
+cust_de21b9db,Parks-Leblanc,51-200,SMB,Healthcare,MA,2024-10-25,Direct Sales,False
+cust_485ee604,Vaughn-Fowler,201-1000,Enterprise,Education,KE,2024-05-22,Content Marketing,True
+cust_f5efdd8e,"Walker, Bernard and Mendoza",1-10,SMB,Healthcare,PH,2024-10-17,Referral,True
+cust_58ad2429,"Brooks, Miles and Durham",11-50,Startup,Finance,TW,2024-07-27,Referral,True
+cust_f20edac7,"Petersen, Gill and Becker",51-200,Mid-Market,Finance,UG,2024-12-05,Direct Sales,True
+cust_a261fcdc,Fox PLC,1-10,Mid-Market,Retail,MA,2024-05-20,Content Marketing,True
+cust_f94ba60c,Stark Inc,1-10,Startup,Manufacturing,BH,2024-11-17,Content Marketing,True
+cust_c430f39d,"Leach, Harris and Herrera",1000+,Mid-Market,Retail,DM,2024-05-07,Organic,True
+cust_f1432930,"Ramos, Frazier and Love",51-200,Mid-Market,Education,RW,2024-02-05,Paid Search,True
+cust_d1c3ac25,"Griffin, Brown and Anderson",11-50,Enterprise,Healthcare,NI,2024-06-26,Referral,True
+cust_483112fc,"Brown, Ford and Roman",1000+,Mid-Market,Manufacturing,RS,2024-01-09,Partner,True
+cust_7e55e9c3,Scott-Smith,201-1000,SMB,Media,GM,2024-08-12,Paid Search,True
+cust_f95a3fa2,Williams LLC,1000+,Startup,Education,ME,2024-01-25,Referral,True
+cust_4f87d068,"Mcknight, Michael and Jones",51-200,Startup,Education,PW,2024-01-13,Organic,True
+cust_92859e6b,Ortiz-Mack,1000+,SMB,Education,BA,2024-10-10,Direct Sales,True
+cust_bf269a1b,"Stuart, Brooks and Vance",51-200,Enterprise,Technology,PE,2024-12-03,Partner,True
+cust_e19e2bbc,Bennett-Vega,1000+,Enterprise,Technology,HR,2024-12-05,Direct Sales,True
+cust_d514fe41,"Anderson, Dalton and Wilson",1-10,Enterprise,Healthcare,SO,2024-06-01,Direct Sales,True
+cust_68b729cc,"Anderson, Irwin and Davenport",1000+,Startup,Education,TW,2024-01-09,Referral,True
+cust_63721b0d,Ford-Ball,51-200,Startup,Manufacturing,NO,2024-07-25,Content Marketing,True
+cust_c29a63d8,Morrow-Wright,11-50,Startup,Technology,LY,2024-03-01,Referral,True
+cust_40668475,Lopez-Golden,1-10,Startup,Technology,CG,2024-01-13,Referral,True
+cust_2ba1b3c5,"Barnes, Miranda and Stephenson",201-1000,SMB,Media,AM,2024-04-03,Paid Search,True
+cust_b120c8f4,Jones PLC,201-1000,Mid-Market,Manufacturing,AU,2024-06-22,Referral,False
+cust_b3713601,"Powers, Brennan and Sanchez",201-1000,Enterprise,Technology,BD,2024-06-05,Partner,False
+cust_7bab8ca2,Young-Robinson,1000+,SMB,Retail,BG,2024-02-24,Content Marketing,True
+cust_1b82397c,"Holder, Young and Hendricks",1000+,Enterprise,Education,TR,2024-05-03,Paid Search,True
+cust_fd3bfbca,"Harper, Chambers and Flores",11-50,Startup,Media,KI,2024-12-06,Organic,False
+cust_a57b35c2,Odom PLC,201-1000,Enterprise,Education,GN,2024-06-09,Referral,True
+cust_e3b04247,Hill-Hawkins,11-50,Enterprise,Finance,UA,2024-12-07,Paid Search,True
+cust_cb0f9cc0,"Buck, Garrett and Simmons",1-10,Startup,Media,SA,2024-01-19,Partner,True
+cust_3a3733a2,David-Powers,1-10,SMB,Healthcare,SL,2024-05-03,Organic,True
+cust_10a55e90,"Butler, Hernandez and Bennett",1-10,Enterprise,Education,TW,2024-07-27,Partner,True
+cust_03712333,Allen-Perez,1-10,SMB,Retail,KN,2024-02-26,Organic,True
+cust_465a4e2d,Melendez-Hart,11-50,SMB,Media,NI,2024-08-04,Organic,True
+cust_4c9a9f31,"Anderson, Sanchez and Harris",51-200,SMB,Media,KH,2024-01-31,Partner,True
+cust_3f380b72,Boone-Davis,1000+,Mid-Market,Healthcare,RS,2024-11-18,Content Marketing,False
+cust_7f2e802b,Williams Group,1000+,SMB,Manufacturing,GQ,2024-08-22,Content Marketing,True
+cust_12a08336,"Williams, Jones and Ballard",1000+,SMB,Retail,TZ,2024-10-08,Partner,True
+cust_3c9270d4,"Hansen, Mendoza and Booth",201-1000,Startup,Finance,LT,2024-04-27,Partner,True
+cust_66c8833a,Lewis and Sons,1000+,Mid-Market,Retail,SZ,2024-02-15,Referral,True
+cust_fb5e54de,"Key, Mendoza and Sanchez",51-200,Enterprise,Healthcare,UY,2024-09-30,Direct Sales,True
+cust_8940a94c,Sanders and Sons,11-50,Mid-Market,Media,TG,2024-05-04,Partner,True
+cust_3fbc4e6f,James-Ferguson,201-1000,Startup,Education,MK,2024-04-29,Referral,False
+cust_3ab0c0ea,Ward-Andrade,1000+,SMB,Manufacturing,PT,2024-02-08,Paid Search,True
+cust_bd64e7a6,"Harrison, Franco and Rocha",51-200,Startup,Manufacturing,MN,2024-05-01,Content Marketing,True
+cust_c224a200,Williams-Shields,11-50,Startup,Finance,SZ,2024-02-26,Referral,True
+cust_2d96b248,Green PLC,1000+,Startup,Media,TT,2024-10-06,Organic,True
+cust_4d6daeae,Phillips-Gonzalez,1000+,SMB,Manufacturing,GT,2024-05-27,Paid Search,False
+cust_b6069265,"Whitaker, Porter and Pena",51-200,Mid-Market,Technology,LA,2024-05-11,Paid Search,False
+cust_04ef5c88,Hines-Burns,1-10,Enterprise,Healthcare,RS,2024-09-06,Partner,True
+cust_d2e02d1f,"Henry, Jackson and Norton",11-50,Enterprise,Healthcare,DO,2024-02-24,Direct Sales,True
+cust_69083632,"Payne, White and Preston",51-200,Enterprise,Manufacturing,BA,2024-01-23,Direct Sales,True
+cust_ba6889c5,"Johnson, Bradford and Landry",51-200,Mid-Market,Finance,SV,2024-01-19,Direct Sales,False
+cust_b1b4c408,Gutierrez Ltd,201-1000,Startup,Media,HT,2024-01-27,Partner,True
+cust_bf4760e3,"Hernandez, Robinson and Bryant",51-200,SMB,Finance,BH,2024-08-27,Content Marketing,True
+cust_5a8ffd4f,"Estrada, Jensen and Webb",1000+,SMB,Retail,RU,2024-01-07,Paid Search,True
+cust_ae985696,Patel Group,1000+,Enterprise,Finance,AL,2024-01-07,Paid Search,True
+cust_88df2aa5,"Bowen, Nichols and Mitchell",11-50,Enterprise,Education,SC,2024-11-11,Paid Search,True
+cust_9bfaee32,"Craig, Drake and Browning",51-200,Mid-Market,Media,CD,2024-12-22,Referral,False
+cust_7868a5b4,Warren and Sons,201-1000,Enterprise,Healthcare,FI,2024-08-28,Partner,True
+cust_62249921,"King, Gomez and Norton",11-50,SMB,Retail,BR,2024-05-24,Direct Sales,True
+cust_76976f4d,Stevens-Sanchez,1000+,Startup,Education,MC,2024-03-28,Organic,True
+cust_a53865b4,Sutton-Abbott,1-10,Startup,Media,TD,2024-11-29,Organic,True
+cust_a062595d,"Malone, Davis and Gray",11-50,Startup,Retail,TG,2024-07-03,Paid Search,True
+cust_c84c9988,Walsh Ltd,1000+,Enterprise,Finance,DO,2024-02-02,Organic,True
+cust_91f370f3,Bruce-Newman,1000+,Enterprise,Retail,LS,2024-08-07,Referral,True
+cust_beb8523e,Jacobson Inc,1000+,Enterprise,Technology,GT,2024-03-23,Organic,True
+cust_4498b5dd,"Clay, Alvarez and Williams",51-200,Mid-Market,Technology,BO,2024-09-22,Direct Sales,True
+cust_7480121e,Lam-Elliott,201-1000,SMB,Technology,AU,2024-03-10,Organic,True
+cust_acc045e5,Smith-Clark,11-50,SMB,Education,CV,2024-10-19,Direct Sales,True
+cust_f36c9bd0,"Nicholson, Hickman and Evans",51-200,Mid-Market,Media,TM,2024-04-03,Referral,True
+cust_fff0a2a9,"Davenport, Price and Mosley",201-1000,Enterprise,Education,LS,2024-05-29,Paid Search,False
+cust_0800b881,"Taylor, Hinton and Ramsey",11-50,Mid-Market,Retail,SC,2024-10-16,Organic,True
+cust_c000b770,Brown-Kim,1-10,Startup,Manufacturing,BO,2024-05-12,Referral,True
+cust_ae87a752,"Mack, Friedman and Sanders",201-1000,Startup,Retail,LR,2024-01-12,Organic,True
+cust_2d6a8e72,"Nelson, Riddle and Henry",1-10,Enterprise,Media,MK,2024-08-02,Referral,True
+cust_d9aea6ab,Reynolds-Frazier,51-200,Startup,Education,HR,2024-05-27,Organic,True
+cust_c036642d,Barton LLC,1000+,Enterprise,Finance,HU,2024-10-03,Organic,False
+cust_2f1d1850,Miller and Sons,51-200,Startup,Healthcare,MU,2024-10-03,Content Marketing,True
+cust_fde95aec,"Moore, Price and Ward",11-50,SMB,Media,BW,2024-01-03,Partner,True
+cust_a417e009,Wallace-Juarez,1-10,Mid-Market,Healthcare,CA,2024-02-21,Direct Sales,True
+cust_62615d7e,Lopez Group,201-1000,Mid-Market,Manufacturing,TH,2024-08-03,Partner,True
+cust_57c59056,"Russell, Johnson and Gomez",1-10,Mid-Market,Technology,BW,2024-08-19,Organic,True
+cust_427dc6f5,"Mueller, Shields and Smith",1-10,Mid-Market,Education,NG,2024-05-30,Direct Sales,False
+cust_bc3cc796,Hardy PLC,201-1000,Mid-Market,Technology,HN,2024-08-10,Partner,True
+cust_ae45e17f,"Jackson, James and Taylor",201-1000,Enterprise,Healthcare,KI,2024-04-14,Content Marketing,True
+cust_d02ba281,Thomas-Jackson,201-1000,Enterprise,Healthcare,IS,2024-06-12,Partner,True
+cust_f0be4d7c,Washington-Jones,201-1000,Startup,Media,ID,2024-04-05,Direct Sales,True
+cust_8db7c85f,"Weber, Wheeler and Gonzalez",11-50,Startup,Technology,CD,2024-02-22,Content Marketing,True
+cust_953cefd7,Smith-Foster,11-50,Enterprise,Finance,VN,2024-05-27,Content Marketing,True
+cust_307137bf,Alexander-Jordan,1-10,Mid-Market,Manufacturing,CF,2024-08-18,Content Marketing,True
+cust_f49795c7,Evans PLC,1-10,SMB,Technology,MD,2024-03-19,Paid Search,True
+cust_57fd55d9,Edwards-Oconnell,1000+,Enterprise,Technology,LB,2024-04-23,Organic,True
+cust_16efeecd,"Neal, Henry and Johnston",1000+,Startup,Education,HN,2024-05-06,Direct Sales,True
+cust_7f52ebff,Ramirez-Hartman,201-1000,Startup,Finance,MM,2024-02-14,Referral,True
+cust_a921d351,"Gonzalez, Osborn and White",1-10,SMB,Education,SY,2024-01-11,Direct Sales,True
+cust_bcd32cf5,"Murray, Erickson and Gonzales",201-1000,SMB,Healthcare,JP,2024-11-18,Content Marketing,True
+cust_0752ccf6,"Jones, Abbott and Pope",201-1000,SMB,Technology,GQ,2024-07-12,Paid Search,True
+cust_aa829280,Schultz and Sons,201-1000,Mid-Market,Manufacturing,ID,2024-09-12,Organic,True
+cust_d35905f2,Espinoza Group,11-50,Enterprise,Education,BN,2024-06-23,Direct Sales,True
+cust_771501fa,"Mendoza, Morales and Hunter",1-10,SMB,Finance,MD,2024-06-11,Organic,False
+cust_464a9224,"Johnson, Schmitt and Miles",51-200,Enterprise,Media,SO,2024-08-18,Content Marketing,True
+cust_d51bc06f,"Rocha, Rodriguez and Wright",201-1000,SMB,Finance,TL,2024-05-17,Content Marketing,True
+cust_54ab30e9,Holland Inc,11-50,Enterprise,Finance,TM,2024-09-07,Paid Search,False
+cust_84dc6aa4,"Lucas, Rasmussen and Rivera",51-200,Mid-Market,Retail,NR,2024-02-11,Partner,True
+cust_56a41ae4,Garcia and Sons,1000+,SMB,Finance,SE,2024-10-17,Referral,True
+cust_de7ba86f,"Grant, Watts and Walker",201-1000,Mid-Market,Technology,MR,2024-05-31,Direct Sales,True
+cust_e5e0dee1,Barton-Chapman,1000+,SMB,Retail,SC,2024-02-28,Direct Sales,True
+cust_ee06089c,Cuevas-Webb,201-1000,SMB,Manufacturing,KE,2024-06-10,Content Marketing,True
+cust_de35ac0c,Wilson Ltd,1-10,Enterprise,Retail,CV,2024-05-15,Referral,True
+cust_2078ada5,Cooper-Mueller,51-200,SMB,Finance,SK,2024-07-06,Partner,True
+cust_49522741,Alvarez-Kim,201-1000,Enterprise,Technology,MC,2024-06-24,Referral,False
+cust_1ca57c8c,Jones-Williams,201-1000,Enterprise,Education,KN,2024-02-14,Direct Sales,False
+cust_9df6729b,Sweeney Ltd,201-1000,Startup,Media,CD,2024-09-19,Content Marketing,True
+cust_11af4d99,Spears Ltd,1000+,Startup,Technology,HN,2024-07-19,Paid Search,True
+cust_9df6f820,Arnold LLC,51-200,SMB,Retail,TJ,2024-06-14,Direct Sales,True
+cust_cfc8b6e2,Hall-Sullivan,201-1000,Mid-Market,Media,ER,2024-03-13,Referral,True
+cust_98841a56,"Sandoval, Foster and Mclaughlin",1-10,Mid-Market,Healthcare,FJ,2024-06-23,Direct Sales,True
+cust_36d5b38b,"Jordan, Smith and Lewis",1000+,SMB,Manufacturing,IT,2024-10-19,Content Marketing,True
+cust_392e80bd,"Stokes, Brown and Garcia",1000+,SMB,Finance,SO,2024-03-13,Organic,True
+cust_14a559d1,Nguyen-Ellis,51-200,Enterprise,Technology,IN,2024-09-17,Organic,True
+cust_874214d3,Rose-Fowler,11-50,Mid-Market,Finance,UG,2024-05-30,Content Marketing,True
+cust_005e4b2c,"Long, Wilson and Bell",11-50,Enterprise,Finance,PK,2024-08-27,Referral,True
+cust_01a8c144,Cervantes Ltd,201-1000,Mid-Market,Technology,KG,2024-12-22,Content Marketing,True
+cust_5c8c8528,"Lawrence, Powers and Edwards",1-10,Startup,Media,GY,2024-04-28,Content Marketing,True
+cust_96e30e13,White Ltd,11-50,SMB,Education,CV,2024-07-17,Paid Search,True
+cust_8b391e8d,Barnes-Taylor,51-200,Enterprise,Manufacturing,MV,2024-06-13,Paid Search,True
+cust_5aaf8da4,Tucker PLC,11-50,SMB,Retail,MD,2024-12-22,Partner,True
+cust_229e4618,"Arias, Thompson and Jackson",1-10,SMB,Manufacturing,JO,2024-02-24,Direct Sales,True
+cust_6b40e499,Edwards Group,1-10,SMB,Healthcare,VN,2024-01-21,Content Marketing,True
+cust_d084b587,Crane-Washington,1-10,Startup,Media,FI,2024-11-12,Direct Sales,True
+cust_b0bb030f,Maynard-Wagner,51-200,SMB,Manufacturing,SA,2024-06-07,Organic,True
+cust_98023195,"Vasquez, Mckinney and Wallace",201-1000,Mid-Market,Education,DM,2024-02-02,Referral,True
+cust_c2f5ed81,"Johnson, Juarez and Carter",1000+,Startup,Finance,IS,2024-03-28,Content Marketing,True
+cust_9bb98094,"Roberts, Norman and Cunningham",1000+,SMB,Media,SA,2024-08-01,Partner,True
+cust_477da79e,"Wilson, Wilson and Hampton",51-200,Startup,Retail,MM,2024-07-29,Paid Search,True
+cust_0103461d,Wolf Group,11-50,Mid-Market,Technology,ST,2024-03-25,Paid Search,True
+cust_790b8432,Garcia-Greer,11-50,Enterprise,Manufacturing,GB,2024-04-06,Direct Sales,True
+cust_aa96bd48,Golden-Johnson,201-1000,Enterprise,Healthcare,IN,2024-05-15,Referral,True
+cust_d926f473,Gonzales Inc,11-50,SMB,Manufacturing,GW,2024-03-22,Content Marketing,True
+cust_55f5abec,"Matthews, Bell and Page",51-200,Enterprise,Education,ZM,2024-06-15,Organic,False
+cust_084c3ec6,Jensen and Sons,1-10,Enterprise,Healthcare,GA,2024-11-08,Paid Search,True
+cust_5bd6d4d2,Hudson PLC,1000+,Enterprise,Manufacturing,IT,2024-08-19,Partner,True
+cust_89c59c95,"Jackson, Werner and Carter",201-1000,Enterprise,Healthcare,TO,2024-04-13,Organic,True
+cust_46c0e874,"Duke, Shelton and Davis",11-50,Mid-Market,Technology,GB,2024-11-01,Content Marketing,True
+cust_4306c322,Sellers-Riddle,51-200,SMB,Media,TD,2024-02-19,Referral,True
+cust_a755ba8f,"Cline, Wright and Dawson",201-1000,Startup,Education,HU,2024-10-22,Organic,True
+cust_923c893c,"Long, Thomas and Chen",1000+,Mid-Market,Education,YE,2024-06-09,Organic,True
+cust_4702960a,Hayes-Schultz,201-1000,SMB,Manufacturing,BW,2024-06-05,Organic,True
+cust_743e6b66,"Brady, Neal and Wiley",11-50,Mid-Market,Media,PH,2024-07-08,Organic,True
+cust_b7f3241a,Perkins-Melton,51-200,Startup,Manufacturing,ES,2024-02-06,Organic,True
+cust_b30c988f,"Stanton, Reid and Terry",11-50,SMB,Media,BI,2024-11-05,Partner,True
+cust_6adba9b7,"Sanders, Donaldson and Summers",51-200,Enterprise,Healthcare,SA,2024-04-14,Direct Sales,True
+cust_7f890a45,Clayton-Morgan,11-50,SMB,Media,TR,2024-02-20,Organic,True
+cust_aaef9e2f,"Phelps, Kramer and Shannon",1000+,Mid-Market,Education,BE,2024-01-18,Direct Sales,True
+cust_6c349077,Sims Group,51-200,Mid-Market,Education,AM,2024-02-18,Content Marketing,False
+cust_3a5e4061,Alexander Inc,1000+,Startup,Healthcare,NP,2024-03-19,Referral,False
+cust_d9bc3765,"Blankenship, Khan and Turner",51-200,SMB,Retail,IS,2024-02-06,Paid Search,True
+cust_9f45db00,"Ward, Miller and Beck",51-200,SMB,Media,CF,2024-03-05,Partner,True
+cust_45acd302,Sanders LLC,11-50,Mid-Market,Retail,RS,2024-09-28,Referral,True
+cust_16a19d9e,Patterson Inc,1-10,Startup,Manufacturing,MA,2024-02-06,Direct Sales,True
+cust_d3b43dfd,Lewis Inc,51-200,Enterprise,Manufacturing,CO,2024-08-18,Content Marketing,True
+cust_83cced3d,Stone Group,1-10,Enterprise,Retail,AG,2024-01-04,Partner,True
+cust_eef4ae5d,"Cooper, Martinez and Dalton",1-10,Enterprise,Healthcare,MD,2024-02-21,Referral,True
+cust_66f50640,Jones-Reyes,201-1000,Mid-Market,Finance,ES,2024-11-09,Content Marketing,True
+cust_2b62c555,Garcia LLC,1000+,SMB,Education,KG,2024-02-23,Referral,True
+cust_e3b73ce7,Ayala-Mullins,1-10,Startup,Technology,CR,2024-09-06,Partner,True
+cust_0c860e00,"Thomas, Moreno and Smith",201-1000,Startup,Technology,CF,2024-03-04,Paid Search,True
+cust_1938e0c5,Bell-Lewis,1-10,Enterprise,Healthcare,AE,2024-02-28,Partner,False
+cust_a2f84162,Jensen-Ramos,51-200,SMB,Media,GM,2024-02-03,Content Marketing,True
+cust_6f238e0c,Taylor Inc,51-200,Mid-Market,Technology,TZ,2024-10-10,Content Marketing,True
+cust_0a85939d,Bell-Jordan,11-50,Startup,Manufacturing,CU,2024-04-06,Partner,True
+cust_2f52fef1,Newman-Wright,11-50,Enterprise,Retail,US,2024-08-21,Organic,True
+cust_f6a84c7a,"Lawson, Maxwell and Vaughn",1-10,SMB,Manufacturing,KM,2024-12-06,Organic,True
+cust_b7322759,Harris-Lawson,11-50,Enterprise,Technology,ET,2024-10-17,Organic,True
+cust_3a7ba881,Phillips-Brown,1-10,Enterprise,Retail,GY,2024-07-11,Paid Search,True
+cust_6c147a2d,Rodriguez-Porter,11-50,Enterprise,Technology,UG,2024-01-28,Partner,True
+cust_fdba4476,"Oneal, Smith and Ward",1-10,Mid-Market,Finance,LB,2024-02-21,Content Marketing,True
+cust_0e0bf17d,Valencia-Carroll,11-50,SMB,Technology,MM,2024-07-31,Direct Sales,True
+cust_32899952,"Thompson, Ruiz and Archer",1000+,SMB,Manufacturing,BN,2024-01-07,Content Marketing,True
+cust_f888ee25,"Jones, Baker and Williams",11-50,Enterprise,Education,BH,2024-11-02,Partner,True
+cust_677e568b,Hunter-Fuller,11-50,Startup,Technology,SC,2024-10-24,Paid Search,True
+cust_4ef4f968,Henderson-Morales,1000+,Enterprise,Finance,DZ,2024-07-27,Referral,True
+cust_6111a7cf,"Jensen, Ramirez and Collins",11-50,SMB,Finance,SE,2024-12-23,Partner,True
+cust_050864c6,Mccann and Sons,1000+,Mid-Market,Media,SO,2024-05-06,Partner,True
+cust_ccbbf819,Willis-Hines,51-200,SMB,Education,CF,2024-09-21,Direct Sales,True
+cust_1d4b2869,"Jones, Hale and Blair",201-1000,Mid-Market,Retail,GY,2024-01-23,Organic,True
+cust_7f94d5bf,Miller Group,11-50,Enterprise,Manufacturing,CI,2024-06-25,Organic,True
+cust_349e929e,"Lynch, Parker and Harmon",1000+,Startup,Education,SZ,2024-03-09,Organic,False
+cust_31b7e956,Smith and Sons,51-200,SMB,Manufacturing,ME,2024-01-05,Direct Sales,True
+cust_5106ce57,Crawford LLC,1000+,SMB,Media,SK,2024-07-19,Referral,False
+cust_1669d315,"Green, Watson and Brady",1-10,Startup,Education,IQ,2024-10-11,Organic,True
+cust_5c0b268a,Wise Inc,11-50,Startup,Technology,LT,2024-11-09,Referral,True
+cust_267bb07f,Nelson-Brown,1000+,Enterprise,Manufacturing,LC,2024-08-11,Partner,True
+cust_1b977a08,"Jones, Gibson and Ward",1000+,SMB,Finance,SB,2024-11-29,Organic,True
+cust_a47967d4,"Jackson, Moore and Ayala",1000+,SMB,Media,TO,2024-09-18,Paid Search,True
+cust_bbbcef0e,"Wilson, Yang and Smith",201-1000,Startup,Finance,AL,2024-04-04,Partner,True
+cust_c8204f35,Ruiz Group,11-50,Startup,Healthcare,CZ,2024-03-10,Organic,False
+cust_b06ce011,Tran Ltd,1-10,Enterprise,Education,SZ,2024-09-11,Direct Sales,True
+cust_011feec8,Walker-Wright,11-50,Startup,Technology,WS,2024-05-04,Partner,True
+cust_b68b3ef5,Mckenzie-Duncan,1-10,SMB,Manufacturing,CL,2024-07-13,Content Marketing,True
+cust_4d063e72,"Winters, White and Brock",51-200,SMB,Finance,BD,2024-06-04,Paid Search,True
+cust_644b5971,Wiley LLC,51-200,Startup,Media,KR,2024-05-07,Organic,True
+cust_ef54fb19,Tran Inc,201-1000,Mid-Market,Education,MN,2024-03-18,Organic,True
+cust_8dbaaf33,Elliott-Torres,1000+,Startup,Manufacturing,VU,2024-04-04,Referral,True
+cust_9a37d400,Richardson-Bonilla,1-10,Enterprise,Media,FJ,2024-10-11,Direct Sales,True
+cust_cbc4eb2b,"Hodges, Sanchez and Smith",11-50,Mid-Market,Media,NE,2024-01-10,Organic,False
+cust_be397f82,Weaver Ltd,1-10,SMB,Retail,MD,2024-12-06,Direct Sales,True
+cust_31b2cad4,Tapia Inc,1-10,SMB,Technology,PS,2024-09-12,Referral,True
+cust_7588eeba,Sweeney-Acosta,11-50,SMB,Media,CA,2024-03-20,Organic,True
+cust_b2c8bb06,"Bird, Barnes and Woodward",201-1000,SMB,Finance,CV,2024-10-03,Paid Search,True
+cust_214937ef,Davis-Morse,51-200,Mid-Market,Media,SK,2024-06-09,Organic,True
+cust_daf8cf88,"Huang, Ellis and Adkins",1-10,Startup,Healthcare,TT,2024-02-07,Paid Search,True
+cust_8d228293,"Anderson, Wilkins and Jones",1-10,Enterprise,Technology,TN,2024-01-25,Referral,False
+cust_d38eba31,Bates-Anderson,51-200,Mid-Market,Technology,JP,2024-04-11,Direct Sales,True
+cust_0f87c9c7,Howe-Long,51-200,SMB,Finance,LK,2024-05-06,Direct Sales,True
+cust_a15b0da9,Chavez-Hall,1000+,SMB,Manufacturing,FR,2024-02-22,Content Marketing,True
+cust_3be1a96f,"Rodriguez, Garcia and Cole",201-1000,SMB,Retail,KW,2024-06-06,Direct Sales,True
+cust_bb6a104f,Herrera and Sons,11-50,SMB,Technology,PG,2024-04-29,Referral,True
+cust_0a762ac9,Baker-Wilson,1000+,Mid-Market,Retail,DJ,2024-11-09,Partner,False
+cust_2eb50b13,"Torres, Bush and Morrison",51-200,Startup,Media,GM,2024-11-20,Partner,True
+cust_d4a4b8b5,Hernandez-Dawson,51-200,Startup,Healthcare,MK,2024-06-02,Direct Sales,False
+cust_a8024206,"Williams, Evans and Wilkins",201-1000,Enterprise,Technology,EC,2024-01-13,Paid Search,True
+cust_aaddc532,Bond-Hawkins,1-10,Startup,Healthcare,SY,2024-04-07,Direct Sales,True
+cust_02d2ecb2,Murray and Sons,51-200,Enterprise,Retail,CM,2024-01-05,Organic,True
+cust_272c2751,Greer and Sons,1000+,SMB,Retail,CO,2024-03-17,Referral,True
+cust_63631bda,Watson-Mccoy,1000+,Startup,Manufacturing,KH,2024-02-02,Partner,False
+cust_0585c76c,"Willis, Lowery and Jones",11-50,Mid-Market,Finance,BI,2024-03-17,Content Marketing,False
+cust_3cef5b16,"Ramos, Anderson and Stein",201-1000,Mid-Market,Finance,LS,2024-02-17,Referral,True
+cust_4e26c158,Dunlap Inc,1-10,SMB,Healthcare,DO,2024-12-24,Direct Sales,True
+cust_88432285,"Hamilton, Ramsey and Crawford",1-10,SMB,Manufacturing,MU,2024-09-22,Referral,True
+cust_0f569b95,Thompson-Lewis,1-10,Mid-Market,Media,ER,2024-04-16,Paid Search,True
+cust_db4350eb,Griffin-Hernandez,201-1000,Mid-Market,Media,VE,2024-08-28,Organic,True
+cust_b021cd2e,"Sanchez, Phillips and Jenkins",51-200,Startup,Healthcare,SY,2024-07-05,Content Marketing,True
+cust_a2189bad,Miller Group,11-50,Mid-Market,Manufacturing,CU,2024-06-11,Direct Sales,True
+cust_724a7dc0,Day PLC,51-200,Mid-Market,Media,HU,2024-09-01,Paid Search,True
+cust_dc65cf6f,"Norton, Mayo and Casey",201-1000,Enterprise,Education,MK,2024-07-05,Partner,True
+cust_d912cfac,"Harrington, Cooper and Cunningham",1-10,Enterprise,Technology,LI,2024-05-30,Paid Search,True
+cust_ef236fee,White-Flores,1-10,SMB,Healthcare,GN,2024-01-12,Paid Search,True
+cust_fcba80f8,Brown-Frey,51-200,Startup,Education,SM,2024-05-18,Direct Sales,True
+cust_086c5c40,"Key, Dickson and Garcia",1-10,Startup,Technology,KM,2024-04-03,Paid Search,False
+cust_8e9723f7,Ferguson-Moody,201-1000,SMB,Technology,LK,2024-01-22,Content Marketing,True
+cust_0e1186fa,Johnston Group,201-1000,Startup,Healthcare,MH,2024-12-29,Direct Sales,True
+cust_e5313f1a,Thompson PLC,201-1000,Enterprise,Technology,LB,2024-11-09,Referral,True
+cust_2436cdf3,"Wolfe, Sloan and Johnson",11-50,Mid-Market,Healthcare,ME,2024-05-16,Paid Search,True
+cust_1f0085ea,"Elliott, Hart and Lopez",201-1000,SMB,Technology,SA,2024-07-29,Direct Sales,True
+cust_e70775de,Thompson-Johnson,11-50,Mid-Market,Manufacturing,BG,2024-03-31,Referral,False
+cust_e507f7af,"Robinson, Fox and Smith",201-1000,Startup,Technology,VE,2024-03-19,Content Marketing,True
+cust_29d31d9c,Peterson and Sons,201-1000,SMB,Retail,LI,2024-01-24,Direct Sales,True
+cust_dc90ca42,Hernandez Ltd,1000+,Startup,Manufacturing,CV,2024-10-27,Partner,True
+cust_57dd4ce6,Mathis LLC,1000+,Enterprise,Finance,BN,2024-05-25,Direct Sales,True
+cust_551cf477,"Mcmahon, Foster and Garcia",201-1000,Mid-Market,Healthcare,KI,2024-05-05,Organic,True
+cust_2e9345c3,Daugherty Ltd,11-50,Startup,Media,NZ,2024-11-03,Content Marketing,True
+cust_a46d9f25,"Yu, Banks and Thompson",201-1000,Mid-Market,Media,TJ,2024-09-26,Direct Sales,False
+cust_12b9eb7c,"Buchanan, Walker and Chapman",11-50,Startup,Healthcare,EC,2024-05-26,Partner,True
+cust_5228554e,Gross-Phillips,1000+,Startup,Media,EE,2024-10-10,Paid Search,True
+cust_1b23529d,Rush PLC,201-1000,Mid-Market,Media,MX,2024-11-26,Paid Search,True
+cust_14834ed5,"Johnson, Guzman and Mccall",1000+,Mid-Market,Media,VA,2024-03-26,Partner,True
+cust_21e963da,"Cunningham, Zuniga and Taylor",1000+,Startup,Retail,CH,2024-01-31,Partner,True
+cust_b4644d58,Reed LLC,1000+,SMB,Education,DM,2024-09-04,Paid Search,True
+cust_43801b16,Underwood Ltd,201-1000,Mid-Market,Healthcare,DZ,2024-10-10,Referral,True
+cust_6a2fab47,Griffin-Baker,1-10,SMB,Education,HU,2024-09-26,Paid Search,True
+cust_bbe989a4,Bell Inc,201-1000,Startup,Finance,WS,2024-01-01,Direct Sales,True
+cust_a94455b0,Cruz Ltd,11-50,Mid-Market,Retail,NL,2024-03-05,Paid Search,False
+cust_d72b8d7a,Snyder-Gray,51-200,Startup,Technology,ST,2024-05-25,Paid Search,True
+cust_88f69daf,Poole PLC,11-50,Startup,Media,CF,2024-10-21,Direct Sales,False
+cust_046571cb,"Perez, Hayes and Lloyd",1-10,Mid-Market,Retail,AU,2024-04-24,Partner,True
+cust_bc7b60f0,Flores Inc,1-10,Mid-Market,Finance,BN,2024-05-12,Content Marketing,True
+cust_a855c410,Barron and Sons,11-50,Enterprise,Media,ES,2024-01-30,Partner,False
+cust_30ac1d21,"Mcmahon, Spence and Morgan",51-200,SMB,Retail,VE,2024-12-12,Direct Sales,True
+cust_3ed80996,Bush-Reynolds,1000+,Mid-Market,Healthcare,TD,2024-03-05,Partner,True
+cust_8a914a28,"Preston, Moore and Garcia",11-50,Enterprise,Finance,GA,2024-03-14,Partner,True
+cust_aa2f79bc,Terry-Bowen,11-50,SMB,Retail,ZA,2024-07-28,Organic,False
+cust_de255348,Guerrero-Evans,1000+,Enterprise,Media,BY,2024-01-20,Direct Sales,True
+cust_619b02c1,Armstrong-Larsen,1000+,Mid-Market,Media,DE,2024-01-22,Direct Sales,True
+cust_87b7bc95,Smith-Miller,1000+,Startup,Manufacturing,HR,2024-08-30,Paid Search,True
+cust_43edccc7,"Castillo, Davis and Clark",1-10,SMB,Finance,DZ,2024-04-23,Content Marketing,True
+cust_de1531e9,Wells Inc,1-10,Mid-Market,Manufacturing,KP,2024-10-31,Organic,True
+cust_829c510a,Ruiz-Jacobson,11-50,Startup,Finance,IN,2024-02-05,Content Marketing,True
+cust_faa2c0f7,"Stephens, Lopez and Mcclure",1-10,Startup,Manufacturing,MN,2024-03-13,Referral,True
+cust_e613a9e7,Williams-Gonzales,11-50,Enterprise,Manufacturing,IN,2024-03-28,Referral,True
+cust_ec60abff,Elliott-Hernandez,201-1000,Startup,Media,MC,2024-09-16,Referral,True
+cust_c2cfcfa3,Miller LLC,1000+,SMB,Healthcare,SR,2024-06-09,Referral,True
+cust_c22c67fd,"Perez, Brown and Hughes",1-10,Mid-Market,Technology,SK,2024-06-11,Content Marketing,True
+cust_05c57191,"Mcdaniel, Mayer and Armstrong",1-10,Startup,Finance,GW,2024-07-03,Paid Search,False
+cust_a89c6db0,Miller-Orr,11-50,Startup,Education,LC,2024-01-14,Organic,True
+cust_f4e80a15,"Duncan, Black and Duncan",1000+,Enterprise,Retail,VN,2024-02-27,Organic,True
+cust_5794061a,Avery Group,11-50,Enterprise,Healthcare,EC,2024-03-05,Organic,True
+cust_756b0d6d,Stokes and Sons,11-50,SMB,Manufacturing,BB,2024-06-13,Partner,True
+cust_9f84bdfc,Mcneil Group,1000+,Mid-Market,Retail,FR,2024-11-15,Content Marketing,True
+cust_0a9a0aa2,"Hernandez, Larson and Flores",1-10,Startup,Manufacturing,ZA,2024-12-21,Direct Sales,True
+cust_811f080d,Miller PLC,201-1000,SMB,Technology,MY,2024-08-02,Content Marketing,True
+cust_d1e3b566,Gates-Stone,1-10,Mid-Market,Media,AL,2024-11-01,Partner,True
+cust_78e35adb,"Dean, Mills and Barnes",201-1000,SMB,Technology,NI,2024-02-28,Organic,True
+cust_2459ece3,Knight PLC,51-200,Startup,Manufacturing,PS,2024-12-30,Organic,True
+cust_4a7613c1,Buckley PLC,201-1000,Enterprise,Manufacturing,BZ,2024-11-01,Partner,True
+cust_c0a9e3e4,Dillon-Beard,1000+,Enterprise,Healthcare,NG,2024-04-12,Content Marketing,False
+cust_7f6b8b99,Pena-Armstrong,51-200,SMB,Manufacturing,PY,2024-01-15,Organic,True
+cust_4b07cb80,Hill and Sons,201-1000,Mid-Market,Healthcare,VN,2024-08-24,Content Marketing,True
+cust_31557c9b,"Steele, Williams and Preston",11-50,Startup,Technology,LS,2024-09-25,Partner,True
+cust_568acecc,Williams Group,1000+,Enterprise,Media,IQ,2024-12-14,Direct Sales,True
+cust_6bcdbe34,Smith-Roth,1-10,Enterprise,Media,KI,2024-04-30,Direct Sales,True
+cust_41155e6c,Cameron-Garrison,1000+,Enterprise,Education,LA,2024-02-08,Paid Search,True
+cust_48db2ad3,Taylor Ltd,1-10,Enterprise,Media,PA,2024-10-27,Partner,True
+cust_e07d7577,Adams-Butler,1000+,SMB,Technology,KH,2024-02-04,Referral,True
+cust_3efa01db,Alexander Group,11-50,SMB,Media,SZ,2024-07-07,Paid Search,True
+cust_ff12f1b2,"Camacho, Nicholson and Robertson",201-1000,Startup,Retail,DJ,2024-01-26,Referral,True
+cust_6391fdca,Mckinney-Powell,11-50,Mid-Market,Finance,SL,2024-12-07,Partner,False
+cust_46b7562a,"Johnson, Lee and Whitaker",1-10,Startup,Manufacturing,BG,2024-04-06,Direct Sales,True
+cust_638ce6bd,Bryant LLC,51-200,Mid-Market,Education,MA,2024-03-18,Referral,False
+cust_2bcc0767,Richardson-Marshall,1-10,Enterprise,Technology,MY,2024-09-03,Referral,True
+cust_7d1ec7ec,Maldonado and Sons,1000+,Startup,Technology,MR,2024-07-08,Direct Sales,True
+cust_9a703f11,"Griffin, Horne and Wells",51-200,Mid-Market,Manufacturing,TG,2024-05-15,Content Marketing,True
+cust_6e02ee22,Martin-Kline,201-1000,Enterprise,Technology,AE,2024-11-18,Paid Search,True
+cust_af35f503,"Davis, Johnson and Williams",11-50,Enterprise,Technology,TO,2024-10-29,Referral,False
+cust_d44fd61b,Vincent Ltd,51-200,SMB,Technology,GR,2024-09-20,Partner,True
+cust_c9c8ffc0,Adams Group,51-200,Mid-Market,Technology,SG,2024-01-08,Content Marketing,True
+cust_10d1d0d7,"Smith, Buck and Holland",51-200,Mid-Market,Finance,US,2024-11-07,Referral,False
+cust_df114cc2,Walker PLC,1-10,SMB,Healthcare,KP,2024-10-03,Content Marketing,False
+cust_efaa1491,"Day, Coleman and Bennett",201-1000,Mid-Market,Finance,MG,2024-06-27,Partner,True
+cust_52ec6a22,Robinson-Turner,1-10,SMB,Manufacturing,SK,2024-11-16,Paid Search,False
+cust_441e05f1,"Sanders, Garcia and Hunt",201-1000,Enterprise,Media,HR,2024-11-23,Direct Sales,False
+cust_e691937a,Hoffman-Wheeler,1-10,SMB,Technology,JM,2024-04-25,Content Marketing,True
+cust_755e0cc6,"Rodriguez, Brown and Mcneil",201-1000,SMB,Media,DZ,2024-05-06,Direct Sales,False
+cust_59f8ac68,Green-Dawson,1-10,SMB,Healthcare,CF,2024-04-26,Paid Search,True
+cust_d812d0dc,Hernandez and Sons,11-50,Startup,Manufacturing,BG,2024-11-08,Organic,False
+cust_b17b9e7f,"Powell, Flores and Taylor",11-50,Mid-Market,Finance,AR,2024-09-11,Referral,True
+cust_e7a026d7,Bright-Green,1-10,Startup,Healthcare,NL,2024-06-06,Content Marketing,True
+cust_0f42f98f,Doyle-Aguilar,201-1000,SMB,Media,TO,2024-11-12,Referral,True
+cust_53822a06,Cooper Ltd,51-200,Mid-Market,Healthcare,GN,2024-09-23,Content Marketing,True
+cust_ec8330a9,"Little, Alvarez and Shepard",1-10,Mid-Market,Technology,MK,2024-07-16,Referral,True
+cust_de4fa9ad,Bruce-Pittman,1000+,SMB,Media,TH,2024-03-11,Paid Search,True
+cust_044e0beb,Davis-Anderson,11-50,Mid-Market,Retail,IL,2024-10-08,Referral,True
+cust_78741497,"Hines, White and Frazier",1-10,Enterprise,Healthcare,LT,2024-09-11,Partner,True
+cust_66f83847,Walker and Sons,1-10,SMB,Finance,CH,2024-12-04,Direct Sales,True
+cust_d61ef388,Fisher-Eaton,51-200,Mid-Market,Manufacturing,MR,2024-04-11,Referral,False
+cust_af5f0bac,"Carter, York and Ruiz",201-1000,Mid-Market,Healthcare,ZW,2024-08-14,Referral,True
+cust_c9cb6fa8,"Blackburn, Jones and Preston",1000+,Enterprise,Education,SC,2024-02-16,Organic,True
+cust_7d12a718,"James, Evans and Brown",51-200,Mid-Market,Finance,CZ,2024-02-23,Partner,True
+cust_1ae5d4a9,Cooper PLC,1-10,Mid-Market,Finance,PK,2024-02-25,Partner,True
+cust_6141f8fe,Huffman-White,51-200,Mid-Market,Retail,BR,2024-07-08,Partner,False
+cust_791fd7f3,Welch-Thompson,51-200,SMB,Healthcare,ZW,2024-01-23,Direct Sales,True
+cust_07411d8b,Hayes and Sons,1-10,Enterprise,Retail,PS,2024-10-27,Content Marketing,True
+cust_2fb69f5a,Johnston and Sons,1-10,Enterprise,Finance,RW,2024-10-31,Content Marketing,False
+cust_fa7bd712,Anderson Group,201-1000,Enterprise,Retail,ZW,2024-06-15,Organic,True
+cust_c45297a1,Patterson-Woods,1000+,SMB,Finance,AF,2024-01-15,Partner,True
+cust_82be8f44,"Gonzalez, Watson and Smith",1000+,Enterprise,Retail,LI,2024-10-20,Content Marketing,True
+cust_a3bddddf,"Lee, Rhodes and Sims",11-50,SMB,Finance,HU,2024-03-28,Organic,True
+cust_44428f4f,"Wiley, Collins and Garcia",51-200,SMB,Retail,SC,2024-08-16,Content Marketing,True
+cust_a932303f,Jackson-Colon,11-50,Mid-Market,Healthcare,KG,2024-04-22,Partner,False
+cust_ff25c3da,Luna-Carlson,201-1000,Mid-Market,Finance,LU,2024-06-17,Content Marketing,True
+cust_eebb6119,"Cowan, Cooper and Valenzuela",201-1000,Startup,Manufacturing,MK,2024-10-18,Organic,False
+cust_df2c0f33,Martin Group,1000+,Startup,Manufacturing,AM,2024-03-29,Paid Search,True
+cust_c187dd15,Acosta and Sons,201-1000,Mid-Market,Manufacturing,GH,2024-10-12,Organic,False
+cust_c9bd6b7b,Lawrence and Sons,11-50,SMB,Healthcare,CM,2024-05-22,Content Marketing,True
+cust_341d71dc,"Santos, Johnson and Mcdowell",1000+,Enterprise,Healthcare,IE,2024-10-26,Content Marketing,False
+cust_1d421fc7,"Dean, Wheeler and Williams",11-50,Startup,Manufacturing,CD,2024-09-10,Content Marketing,True
+cust_568c28cc,Williams Inc,11-50,Mid-Market,Retail,NI,2024-06-21,Organic,True
+cust_19f35441,Martinez-King,51-200,SMB,Media,ME,2024-02-29,Paid Search,True
+cust_c463a1ac,Neal Ltd,11-50,Enterprise,Media,AG,2024-04-26,Organic,True
+cust_18293d5f,Stanley-Bates,201-1000,Enterprise,Manufacturing,IR,2024-08-29,Referral,False
+cust_447087a8,"Haynes, Barnes and Roach",201-1000,Startup,Technology,SE,2024-10-06,Direct Sales,True
+cust_c1ee34b9,"Wilson, Wilson and Rodriguez",51-200,Startup,Finance,FJ,2024-08-24,Direct Sales,True
+cust_e5b25eee,Strickland PLC,1-10,SMB,Healthcare,FR,2024-05-19,Partner,False
+cust_0f7e9b83,"Ortiz, Martin and Kelley",51-200,SMB,Technology,GE,2024-09-24,Referral,True
+cust_2f5f00e9,Rivera-Smith,51-200,SMB,Technology,SV,2024-02-04,Organic,True
+cust_bc0157ec,Conley Ltd,51-200,Enterprise,Retail,SA,2024-02-27,Direct Sales,True
+cust_07164d04,Chan Inc,51-200,Enterprise,Retail,RS,2024-10-08,Paid Search,True
+cust_26423df9,Conway Ltd,201-1000,Mid-Market,Media,HT,2024-06-26,Paid Search,True
+cust_0687060f,Baker-Williams,201-1000,Startup,Healthcare,EC,2024-12-05,Paid Search,True
+cust_b1176264,Phelps LLC,11-50,SMB,Retail,GD,2024-05-01,Organic,True
+cust_540999cf,Rodgers-Davis,11-50,Startup,Finance,PS,2024-12-11,Partner,True
+cust_1139f88e,Smith and Sons,1-10,Enterprise,Retail,HR,2024-09-08,Content Marketing,True
+cust_262196c6,Murphy Group,1000+,Startup,Education,VU,2024-04-14,Organic,True
+cust_a1c9c122,"Davis, Briggs and White",1-10,Startup,Retail,MZ,2024-06-04,Organic,True
+cust_3fd434ab,Nelson-Cruz,201-1000,Startup,Education,QA,2024-11-06,Content Marketing,True
+cust_264ad3dd,Banks-Robles,11-50,SMB,Retail,CG,2024-02-21,Partner,True
+cust_cb09cd55,"Barber, Jarvis and Richard",51-200,Enterprise,Retail,CA,2024-06-10,Organic,True
+cust_fe5f249b,"Webb, Carroll and Kim",51-200,SMB,Manufacturing,VA,2024-05-27,Organic,True
+cust_3c63b148,Carr-Huffman,1000+,Startup,Finance,ZA,2024-12-12,Organic,True
+cust_c32f811b,Webb Group,201-1000,SMB,Education,CG,2024-12-10,Paid Search,True
+cust_eb837137,Alexander-Brown,1000+,SMB,Finance,TD,2024-05-02,Partner,True
+cust_ae2f5724,Bush Ltd,11-50,Startup,Education,SL,2024-10-25,Referral,False
+cust_16ddfe88,"Ray, Cunningham and Levine",201-1000,Mid-Market,Healthcare,SV,2024-12-05,Organic,True
+cust_035de27c,Stone-Watts,1-10,Startup,Media,VN,2024-02-06,Direct Sales,True
+cust_87557918,Stanley-Wright,11-50,Startup,Media,LY,2024-09-14,Direct Sales,True
+cust_a253d224,"Davidson, Hernandez and Serrano",1-10,Mid-Market,Retail,VA,2024-01-22,Paid Search,True
+cust_dc004dc4,Schneider and Sons,51-200,Mid-Market,Manufacturing,SD,2024-11-25,Organic,True
+cust_2f556bcc,Christian-Booth,11-50,Startup,Media,BO,2024-10-18,Content Marketing,True
+cust_5aa5926c,Flores-Rivera,51-200,Enterprise,Retail,IT,2024-01-20,Organic,True
+cust_5504c0fc,"Walker, Schneider and Powell",1-10,Startup,Media,GW,2024-01-31,Paid Search,True
+cust_55159456,Wallace-Berry,11-50,Mid-Market,Finance,BT,2024-11-28,Referral,False
+cust_3db99f36,West-Wilson,51-200,Startup,Finance,SB,2024-10-16,Content Marketing,True
+cust_195e25b5,"Smith, Powell and Johnson",201-1000,Enterprise,Manufacturing,SY,2024-01-01,Content Marketing,True
+cust_67f444bf,Conner PLC,201-1000,Enterprise,Retail,DZ,2024-04-28,Paid Search,True
+cust_b2e20ccc,"Hart, Pena and Bryant",1-10,SMB,Technology,LV,2024-05-21,Referral,False
+cust_7f88e8c3,Velasquez Group,201-1000,Enterprise,Healthcare,LS,2024-08-05,Direct Sales,True
+cust_f875045b,"Greene, Moran and Cox",51-200,Startup,Media,PG,2024-02-14,Partner,False
+cust_e73a1f21,Malone and Sons,11-50,Enterprise,Manufacturing,AD,2024-05-12,Organic,False
+cust_e8507f5b,Gallegos-Brandt,201-1000,Startup,Technology,JP,2024-07-31,Content Marketing,True
+cust_1e673306,"Brooks, Rodriguez and Prince",1-10,SMB,Retail,SA,2024-02-24,Content Marketing,True
+cust_70d58585,"Newton, Ortiz and King",1000+,Startup,Manufacturing,FJ,2024-03-13,Partner,True
+cust_02929982,Conrad Group,201-1000,Mid-Market,Retail,GM,2024-06-26,Partner,True
+cust_42db7626,Love Inc,11-50,Startup,Technology,TW,2024-06-09,Partner,False
+cust_4625b03a,House Ltd,1000+,Enterprise,Media,TZ,2024-02-17,Referral,False
+cust_b0114aba,Ellis-Lawrence,1-10,Enterprise,Finance,SD,2024-02-22,Paid Search,True
+cust_a2768f36,Smith-Fitzgerald,51-200,Startup,Education,TG,2024-12-29,Paid Search,True
+cust_169a8ff6,Roberson-Webb,201-1000,Enterprise,Media,SE,2024-10-30,Paid Search,True
+cust_a1059f78,Holt and Sons,201-1000,Enterprise,Technology,ES,2024-11-12,Referral,True
+cust_54aca4ba,Garcia Ltd,1-10,Enterprise,Retail,US,2024-08-23,Partner,True
+cust_f1c56fe0,Gordon-Cruz,201-1000,Enterprise,Technology,UZ,2024-12-21,Direct Sales,True
+cust_595c2c78,"Farmer, Hill and Stuart",1-10,Mid-Market,Education,KE,2024-06-24,Direct Sales,True
+cust_72665fe2,Taylor PLC,201-1000,Mid-Market,Finance,ME,2024-12-10,Organic,True
+cust_d48c3f35,"Hunt, Cameron and Kelley",201-1000,Mid-Market,Education,KW,2024-10-03,Direct Sales,True
+cust_4103aaab,"Walls, Chen and Harris",51-200,Enterprise,Technology,VU,2024-10-04,Organic,True
+cust_f9c84f8f,Parks-Morse,11-50,Startup,Finance,CO,2024-10-02,Content Marketing,True
+cust_36b922dc,"Hester, Thompson and Daniels",51-200,Mid-Market,Retail,DZ,2024-05-05,Organic,True
+cust_4bcbeda9,"Wilson, Bell and Castillo",11-50,Enterprise,Healthcare,TO,2024-09-16,Partner,True
+cust_58103b24,"Butler, Adkins and Skinner",201-1000,Startup,Finance,JO,2024-12-06,Direct Sales,True
+cust_b5d59990,Stokes-Mills,1-10,Enterprise,Healthcare,AR,2024-05-27,Referral,True
+cust_4d8520e9,Brown Inc,11-50,Mid-Market,Technology,FR,2024-04-13,Referral,True
+cust_839f75a0,Terrell Ltd,1000+,Startup,Media,ID,2024-02-26,Referral,True
+cust_8b1b3fff,Vaughn LLC,1000+,SMB,Manufacturing,GA,2024-10-19,Organic,True
+cust_b06e127f,"Johnson, Cervantes and Garcia",1-10,Enterprise,Media,GQ,2024-10-14,Direct Sales,True
+cust_4e0c336d,"Hancock, Newton and Hoffman",1000+,SMB,Retail,GW,2024-07-17,Direct Sales,True
+cust_47c3fd0d,"Roberts, Beck and House",11-50,Startup,Manufacturing,MW,2024-06-10,Partner,True
+cust_53619159,"Edwards, Arnold and Smith",51-200,Enterprise,Manufacturing,ID,2024-03-19,Direct Sales,False
+cust_fc0f54fd,"Melton, Dalton and Ramos",11-50,Mid-Market,Manufacturing,GR,2024-12-19,Content Marketing,False
+cust_f886f85d,"Bush, Holland and Fischer",201-1000,SMB,Healthcare,ST,2024-10-13,Referral,True
+cust_6d0dc857,"Gonzalez, Hardy and Lee",1000+,Mid-Market,Media,PE,2024-03-09,Partner,True
+cust_c99df79c,"Jones, Rivers and Moss",51-200,SMB,Healthcare,CL,2024-05-26,Paid Search,True
+cust_01812693,Patterson PLC,51-200,Mid-Market,Retail,IN,2024-02-20,Paid Search,False
+cust_ec9e3634,Silva LLC,11-50,Mid-Market,Retail,AF,2024-05-08,Organic,True
+cust_60bbf2e7,Mckinney-Moore,1000+,Enterprise,Education,DE,2024-12-26,Direct Sales,False
+cust_e7c121c8,Carlson-Ayala,201-1000,Mid-Market,Media,YE,2024-08-27,Referral,True
+cust_92f12209,"Turner, Tyler and Pierce",1000+,Startup,Technology,BN,2024-10-31,Referral,True
+cust_4aac1e1c,"Stewart, Robinson and White",1-10,SMB,Finance,BJ,2024-11-01,Paid Search,False
+cust_4b8a850b,"Moore, Daniels and Powell",51-200,SMB,Media,MG,2024-03-26,Organic,True
+cust_2a31002b,Alvarado LLC,51-200,SMB,Media,ML,2024-04-24,Direct Sales,True
+cust_0529d3fd,Clements PLC,201-1000,Startup,Education,SM,2024-07-03,Partner,True
+cust_5fe50030,"Colon, Zavala and Smith",11-50,Enterprise,Healthcare,SV,2024-05-14,Direct Sales,True
+cust_49729aff,Allen-May,51-200,Startup,Manufacturing,VU,2024-04-04,Referral,True
+cust_fab6cc62,Fleming LLC,51-200,Startup,Technology,MU,2024-12-21,Partner,True
+cust_4754757b,Cruz PLC,1000+,Enterprise,Media,RS,2024-04-19,Paid Search,False
+cust_c2d14416,Pruitt LLC,51-200,SMB,Media,SG,2024-11-07,Partner,False
+cust_b3192f48,"Griffin, Williams and Villanueva",51-200,Enterprise,Healthcare,FI,2024-05-04,Partner,True
+cust_958300e6,"Miller, Davis and Bonilla",11-50,Startup,Manufacturing,SO,2024-07-26,Organic,True
+cust_79f290da,Sims and Sons,1000+,Mid-Market,Healthcare,SV,2024-09-01,Paid Search,True
+cust_ab11219a,Hancock Group,51-200,Startup,Finance,CA,2024-03-20,Referral,True
+cust_6d811d9a,"Poole, Johns and Figueroa",11-50,Startup,Healthcare,NZ,2024-09-08,Content Marketing,True
+cust_590bb9a2,Burgess and Sons,1000+,Mid-Market,Manufacturing,AR,2024-06-27,Direct Sales,True
+cust_50578a97,"Rivera, Miller and Brown",1-10,Mid-Market,Education,ID,2024-08-04,Paid Search,False
+cust_a3ecf401,Andrews and Sons,1000+,Startup,Media,IL,2024-06-07,Direct Sales,True
+cust_17250ffc,Hayes-Sullivan,1000+,Enterprise,Technology,KW,2024-01-07,Content Marketing,True
+cust_0e9cfcb3,Nunez-Nichols,11-50,Mid-Market,Finance,BA,2024-10-06,Content Marketing,True
+cust_a59d5f28,"Brown, Reese and Williams",1000+,Enterprise,Education,BN,2024-05-18,Partner,True
+cust_187684d6,"Rodriguez, Buchanan and Turner",51-200,Enterprise,Healthcare,BT,2024-04-19,Partner,True
+cust_9fc6f9a0,James-Short,1000+,SMB,Technology,AT,2024-07-03,Partner,False
+cust_94ad9b0a,Ferguson and Sons,201-1000,Startup,Manufacturing,AE,2024-05-31,Content Marketing,True
+cust_0cd926b3,"Phillips, Walters and Evans",51-200,Startup,Education,ZA,2024-09-08,Content Marketing,True
+cust_dbb7c3ac,Bernard-Smith,1000+,Enterprise,Manufacturing,TH,2024-02-24,Organic,True
+cust_88235ab9,Williams PLC,11-50,Mid-Market,Education,UG,2024-06-02,Organic,False
+cust_b369f97a,"Kelley, Miller and Clark",11-50,Startup,Retail,SZ,2024-12-16,Organic,True
+cust_99f71068,"Cooper, Gutierrez and Brewer",11-50,Enterprise,Media,SG,2024-02-25,Organic,True
+cust_fc7d8d3d,White PLC,201-1000,Startup,Retail,ID,2024-03-16,Partner,True
+cust_9d796a61,White PLC,201-1000,Mid-Market,Technology,BF,2024-11-26,Organic,True
+cust_2a9ce881,"Murray, Dunn and Roberts",11-50,Mid-Market,Education,BJ,2024-04-07,Organic,True
+cust_0e9cfdd3,Gonzalez PLC,11-50,Mid-Market,Manufacturing,RU,2024-05-08,Referral,True
+cust_1e2424c7,Anderson-Rios,201-1000,Enterprise,Finance,BZ,2024-04-20,Organic,True
+cust_add2b7de,"Jones, Lee and Tucker",1-10,Startup,Retail,LS,2024-08-27,Partner,True
+cust_eef891fd,"Torres, Silva and Cunningham",1000+,Startup,Retail,MM,2024-11-09,Organic,True
+cust_4ef3c85b,Benjamin-Jackson,1000+,Startup,Finance,KW,2024-04-05,Partner,True
+cust_be5848c4,Joseph Ltd,1-10,Mid-Market,Media,NZ,2024-04-17,Referral,True
+cust_d17f3301,Taylor-Quinn,1-10,Enterprise,Healthcare,QA,2024-06-28,Direct Sales,True
+cust_837b1049,Howard-Torres,201-1000,Mid-Market,Retail,TG,2024-02-12,Paid Search,True
+cust_3efaff37,Brewer Inc,51-200,Startup,Education,IT,2024-11-29,Direct Sales,True
+cust_f50a6b99,Vance and Sons,1-10,Startup,Education,IN,2024-10-11,Direct Sales,True
+cust_bbd1f557,"Jones, Jones and Smith",1000+,Startup,Finance,SD,2024-09-02,Paid Search,True
+cust_ef7d5ea5,Hess PLC,51-200,SMB,Manufacturing,NA,2024-10-25,Partner,False
+cust_959bb797,"Lewis, Johnson and Green",11-50,SMB,Healthcare,SR,2024-07-02,Paid Search,True
+cust_db55f57c,"Rowe, Diaz and Walker",51-200,SMB,Technology,TZ,2024-10-11,Paid Search,True
+cust_8573cf88,Anderson-Mason,1000+,Startup,Media,BW,2024-06-03,Direct Sales,True
+cust_e84b276d,Shaw-Bates,1000+,Startup,Finance,VE,2024-09-22,Partner,True
+cust_d467db99,Todd and Sons,1-10,SMB,Retail,PE,2024-03-02,Direct Sales,True
+cust_27719a39,Knight PLC,51-200,Mid-Market,Healthcare,KM,2024-12-04,Partner,True
+cust_980bbf34,Fitzgerald Group,1-10,Mid-Market,Education,MK,2024-01-16,Organic,False
+cust_8a533556,Juarez and Sons,51-200,Enterprise,Manufacturing,BI,2024-04-12,Content Marketing,True
+cust_80d00b8f,Young-Barnett,51-200,SMB,Education,SI,2024-12-18,Direct Sales,True
+cust_e5ed7ec1,Hughes-Hardin,51-200,Enterprise,Healthcare,BD,2024-01-16,Organic,True
+cust_3100cdb4,"Nguyen, Padilla and Boyd",11-50,Enterprise,Finance,IS,2024-11-20,Content Marketing,True
+cust_fd6c04bb,"Baker, Stephens and Thompson",51-200,Enterprise,Manufacturing,TD,2024-05-27,Referral,True
+cust_1c6eaba0,Matthews-Villanueva,51-200,Enterprise,Education,BO,2024-07-19,Organic,True
+cust_6e5c59ac,Bennett-Solomon,1000+,Startup,Media,SI,2024-06-06,Content Marketing,False
+cust_4a07bbf5,Roth-Reed,11-50,SMB,Finance,RO,2024-12-10,Partner,False
+cust_a736e603,"Smith, Macias and Gonzales",1-10,Startup,Technology,GT,2024-01-30,Direct Sales,True
+cust_14cfa6af,"Schneider, Lewis and Lopez",1000+,Enterprise,Media,ML,2024-08-21,Direct Sales,True
+cust_954f5ec5,"Montoya, Guerrero and Perry",1-10,Mid-Market,Education,LS,2024-10-06,Direct Sales,True
+cust_caaa7a94,Olson Group,11-50,Mid-Market,Manufacturing,QA,2024-03-22,Paid Search,False
+cust_6d78fa07,"Martin, Whitaker and Johnson",1000+,Mid-Market,Healthcare,BD,2024-02-19,Referral,True
+cust_1de8d0b7,"Vargas, Taylor and Hunt",1-10,Enterprise,Finance,TO,2024-02-27,Direct Sales,True
+cust_d1c0b40e,Jackson and Sons,11-50,SMB,Media,SI,2024-06-06,Direct Sales,True
+cust_48afa7c3,"Costa, Walsh and Johns",11-50,SMB,Education,ZA,2024-09-13,Direct Sales,True
+cust_d58b7a20,Valentine-Robinson,11-50,Enterprise,Finance,UZ,2024-07-02,Organic,True
+cust_78c51b1e,Jackson-Greer,201-1000,SMB,Technology,US,2024-02-25,Content Marketing,True
+cust_141ff139,"Hoover, White and Keller",1-10,SMB,Education,IN,2024-03-06,Content Marketing,True
+cust_b249133d,"Jennings, Nielsen and Carlson",201-1000,Startup,Technology,BJ,2024-03-30,Partner,True
+cust_d387eb50,Cruz-Rodriguez,1000+,Mid-Market,Media,FR,2024-07-22,Partner,True
+cust_7020c394,"Cohen, Serrano and Jacobs",1000+,SMB,Manufacturing,EE,2024-07-03,Partner,True
+cust_aff10e4f,"Greene, Rich and Schmidt",1000+,Startup,Education,GB,2024-02-15,Content Marketing,True
+cust_ad96e655,Olson and Sons,11-50,Enterprise,Finance,UY,2024-07-28,Content Marketing,True
+cust_a9e21f1c,Prince Ltd,201-1000,Startup,Education,CF,2024-06-16,Paid Search,True
+cust_aaf501db,"Fisher, Golden and Wolfe",11-50,Startup,Education,NP,2024-03-30,Partner,True
+cust_0a9a3d5d,Clarke-James,11-50,SMB,Healthcare,TZ,2024-11-08,Content Marketing,True
+cust_a0a5142e,"Velez, Hood and Johnston",1-10,SMB,Manufacturing,NO,2024-02-21,Content Marketing,True
+cust_cc803303,Woods-Hall,201-1000,Enterprise,Manufacturing,BS,2024-04-20,Paid Search,True
+cust_dbb7d910,"Mcdowell, Ortiz and Lopez",201-1000,Startup,Healthcare,KN,2024-10-15,Organic,True
+cust_7eacd9fd,Lane Inc,1000+,SMB,Healthcare,SK,2024-01-03,Partner,True
+cust_dc2425ce,Pena-Watts,1000+,SMB,Technology,KW,2024-06-07,Paid Search,True
+cust_bdf2b581,Rodriguez-Simmons,11-50,Enterprise,Education,TV,2024-04-08,Direct Sales,True
+cust_9782fdad,Wyatt-Henderson,51-200,Startup,Healthcare,MM,2024-08-25,Referral,True
+cust_d4ef8761,Braun-Sanders,201-1000,Enterprise,Healthcare,GA,2024-06-09,Paid Search,True
+cust_8630a027,"Bowers, Olson and Wood",1000+,SMB,Media,TH,2024-07-06,Direct Sales,True
+cust_e2f7c32e,Hinton-Lane,11-50,Mid-Market,Healthcare,MA,2024-06-03,Partner,True
+cust_6461f338,"Taylor, Shields and Wilson",201-1000,Startup,Healthcare,GT,2024-06-22,Referral,True
+cust_51470468,"Avery, Garcia and Romero",1-10,Startup,Healthcare,LU,2024-11-07,Direct Sales,False
+cust_f4496044,"Mendez, Cohen and Williams",1000+,Enterprise,Media,MW,2024-09-03,Paid Search,True
+cust_6f248c53,Brock and Sons,11-50,Enterprise,Education,PW,2024-12-25,Direct Sales,True
+cust_3dc12f46,"Graham, Brown and Walker",1000+,Startup,Technology,BR,2024-08-24,Referral,True
+cust_bb651146,Ramsey Group,1000+,Startup,Media,VE,2024-09-11,Partner,True
+cust_4fa00e84,"Mitchell, Stuart and Brown",1000+,Enterprise,Finance,EC,2024-09-05,Organic,True
+cust_2e711458,Gonzales-Harris,201-1000,SMB,Media,KM,2024-12-27,Referral,True
+cust_e5bab377,"Mitchell, Johnson and Greene",201-1000,Mid-Market,Education,SI,2024-09-28,Partner,False
+cust_86b4de04,Gilbert Ltd,1000+,Startup,Manufacturing,AZ,2024-05-19,Paid Search,True
+cust_785a25a6,Pena and Sons,11-50,Startup,Finance,BT,2024-04-17,Direct Sales,False
+cust_a6b619e4,Gomez-Foster,201-1000,Mid-Market,Healthcare,TZ,2024-03-18,Organic,True
+cust_695443a3,"Smith, Padilla and Calhoun",1-10,Startup,Education,SY,2024-04-20,Organic,True
+cust_700c6052,"Gallegos, Herman and Bailey",11-50,Mid-Market,Manufacturing,IS,2024-03-28,Content Marketing,True
+cust_bccc91c4,"Mccarty, Gibson and Powell",201-1000,Mid-Market,Finance,AF,2024-04-11,Direct Sales,True
+cust_33f6e46e,Russell Inc,51-200,Mid-Market,Retail,TJ,2024-01-29,Referral,True
+cust_ff5669ab,"Phillips, Arroyo and Pratt",201-1000,Enterprise,Healthcare,IE,2024-12-06,Content Marketing,True

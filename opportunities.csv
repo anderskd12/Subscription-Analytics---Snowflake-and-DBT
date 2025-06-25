@@ -1,0 +1,201 @@
+opportunity_id,customer_id,opportunity_name,stage,lead_source,deal_value,probability,created_date,close_date,sales_rep
+opp_8b9d0896,cust_f886f85d,"Bush, Holland and Fischer - Tailscale",Negotiation,Outbound,52105,44,2024-09-07,,Kenneth Rios
+opp_86afa2c9,cust_6495d7d6,Cox LLC - Tailscale,Negotiation,Inbound,1572573,64,2024-11-01,,Kevin Terry
+opp_78e6b8ae,cust_d50dd54e,"Griffin, Moore and Hensley - Tailscale",Closed Won,Outbound,1362387,100,2024-11-22,2024-12-18,Eric Anderson
+opp_279ffc09,cust_57fd55d9,Edwards-Oconnell - Tailscale,Closed Won,Outbound,1128464,100,2024-11-02,2024-12-01,David Washington
+opp_1fbbda9a,cust_a062595d,"Malone, Davis and Gray - Tailscale",Prospecting,Event,24644,41,2024-04-21,,Amber Gomez
+opp_2e06f808,cust_d2e02d1f,"Henry, Jackson and Norton - Tailscale",Closed Won,Event,24437,100,2024-06-26,2024-12-28,Thomas Joseph
+opp_e367038a,cust_dcb7dcfa,Holland LLC - Tailscale,Prospecting,Inbound,3548,81,2024-04-20,,Christopher Erickson
+opp_d70a4d87,cust_11fa17c6,"Gould, Marshall and Scott - Tailscale",Qualification,Event,1031,41,2024-12-17,,Brittany Young
+opp_6b6bfa01,cust_de7bbebe,King-York - Tailscale,Prospecting,Event,2809,46,2024-01-16,,Laura Alexander MD
+opp_67c394fe,cust_e3b73ce7,Ayala-Mullins - Tailscale,Negotiation,Partner,3176,12,2024-03-20,,Amanda Stewart
+opp_d1714ae6,cust_6e02ee22,Martin-Kline - Tailscale,Qualification,Outbound,232040,49,2024-05-13,,Jerry Cantrell
+opp_b146ad74,cust_8c760f67,Howell-Hart - Tailscale,Closed Won,Inbound,2257,100,2024-07-26,2024-09-22,Alexander Velazquez
+opp_57af3b62,cust_f94ba60c,Stark Inc - Tailscale,Proposal,Referral,701,85,2024-10-25,,Jimmy Flores
+opp_9cf2a84d,cust_d4a4b8b5,Hernandez-Dawson - Tailscale,Qualification,Partner,68968,24,2024-01-02,,Kimberly Romero
+opp_635a8d92,cust_5d20f6ff,Cook and Sons - Tailscale,Prospecting,Event,297357,13,2024-09-08,,Kara Roberts
+opp_fcec1d79,cust_4884405f,Hancock and Sons - Tailscale,Closed Won,Outbound,3455,100,2024-10-19,2024-12-13,Rebecca Chandler
+opp_7eadedf4,cust_931e01b3,"Burns, Hernandez and Ryan - Tailscale",Closed Lost,Event,323082,0,2024-12-24,2024-12-29,Brian Mendoza
+opp_7b413009,cust_b30c988f,"Stanton, Reid and Terry - Tailscale",Closed Lost,Partner,23688,0,2024-01-16,2024-03-10,Audrey Johnson
+opp_8e49e6c1,cust_7d65741d,"Winters, Newman and Brown - Tailscale",Closed Won,Partner,453208,100,2024-08-27,2024-10-08,Brandon Brown
+opp_0253e1b0,cust_7985d897,Walker-Jones - Tailscale,Closed Lost,Outbound,481779,0,2024-09-06,2024-10-13,Courtney Walls
+opp_5b94bad8,cust_bf4760e3,"Hernandez, Robinson and Bryant - Tailscale",Closed Won,Partner,20529,100,2024-04-17,2024-07-02,Joshua Griffin
+opp_bbdc74e1,cust_8630a027,"Bowers, Olson and Wood - Tailscale",Negotiation,Inbound,1968335,17,2024-09-17,,Vanessa Foster
+opp_9acc436b,cust_791fd7f3,Welch-Thompson - Tailscale,Negotiation,Outbound,39288,59,2024-07-09,,Larry Harding
+opp_429f32a5,cust_281fd315,Ortiz Ltd - Tailscale,Negotiation,Referral,92601,37,2024-12-18,,Jennifer Baldwin
+opp_6e2f007a,cust_c93e089d,"Lawrence, Lara and Gonzalez - Tailscale",Closed Lost,Event,396295,0,2024-06-15,2024-11-05,Adam Cooper
+opp_c481bde9,cust_dfdecb33,Miller Ltd - Tailscale,Prospecting,Outbound,1624161,50,2024-04-29,,Shelly Miller
+opp_179f8db0,cust_6e4c0342,"White, Burch and Reynolds - Tailscale",Negotiation,Partner,1635,45,2024-10-09,,Natalie Perry
+opp_4e50a524,cust_7da6af1c,Ware and Sons - Tailscale,Closed Lost,Event,11362,0,2024-06-20,2024-08-15,Nicholas Hurst
+opp_5abee044,cust_5b1f23d1,George Group - Tailscale,Closed Lost,Event,7152,0,2024-10-09,2024-11-18,Kevin Miller
+opp_05b1c7ca,cust_024e6d1b,Sanchez PLC - Tailscale,Closed Lost,Partner,1722,0,2024-03-21,2024-07-16,Sean Hatfield
+opp_a1f9f135,cust_47c3fd0d,"Roberts, Beck and House - Tailscale",Qualification,Outbound,10027,49,2024-01-26,,Leslie Bennett
+opp_bfa1c4ee,cust_e07d7577,Adams-Butler - Tailscale,Qualification,Event,1426986,15,2024-01-03,,Thomas Perry
+opp_5c55eb17,cust_de4fa9ad,Bruce-Pittman - Tailscale,Closed Lost,Outbound,1539343,0,2024-08-03,2024-10-31,Nicole Taylor
+opp_4f370ffc,cust_e8de425b,Gibson LLC - Tailscale,Qualification,Event,395254,52,2024-03-13,,Donna Henry
+opp_355b994d,cust_a318d834,Compton Ltd - Tailscale,Qualification,Referral,23313,77,2024-11-15,,Sandra Torres
+opp_709f3ab4,cust_a1517f17,James LLC - Tailscale,Proposal,Inbound,192659,68,2024-08-05,,Courtney Moody
+opp_fd033931,cust_48f0bd38,"Saunders, Becker and Taylor - Tailscale",Prospecting,Partner,476111,20,2024-02-29,,Tyler Flowers
+opp_4a801930,cust_756b0d6d,Stokes and Sons - Tailscale,Closed Won,Partner,4733,100,2024-07-02,2024-07-26,Stephanie Butler
+opp_713f5b21,cust_046571cb,"Perez, Hayes and Lloyd - Tailscale",Closed Lost,Referral,1674,0,2024-07-10,2024-11-20,Alyssa Hubbard
+opp_94af6eba,cust_9f84bdfc,Mcneil Group - Tailscale,Closed Lost,Outbound,1483130,0,2024-07-10,2024-07-22,Heidi Castillo
+opp_1eb2bac6,cust_2f3bb466,Roberts-Wilson - Tailscale,Qualification,Partner,7588,65,2024-06-18,,Lori Alvarez
+opp_1e229f01,cust_e34a20f8,"Whitney, Coffey and Ballard - Tailscale",Proposal,Event,88970,57,2024-09-26,,Jacqueline Quinn
+opp_e2631d5f,cust_c9b9f814,"James, Kerr and Evans - Tailscale",Qualification,Outbound,4663,29,2024-01-07,,Carla Brown
+opp_e09249a5,cust_379a8ddf,"Sellers, George and Burns - Tailscale",Closed Won,Partner,562157,100,2024-05-04,2024-10-30,Brandy Martin
+opp_fe53d3c0,cust_8940a94c,Sanders and Sons - Tailscale,Closed Won,Partner,22244,100,2024-04-15,2024-09-02,Thomas Kelly
+opp_f725b239,cust_9c9461b2,Hickman Ltd - Tailscale,Closed Won,Partner,480601,100,2024-04-22,2024-08-13,Taylor Palmer
+opp_06a191dc,cust_974c3120,"Ramos, Ramirez and Shea - Tailscale",Closed Won,Event,63412,100,2024-10-24,2024-12-23,Brandon Goodwin
+opp_1bc1767b,cust_1cd92b29,Lee-Rodriguez - Tailscale,Negotiation,Inbound,485368,45,2024-07-30,,Eugene Kirk
+opp_ab5655c2,cust_48afa7c3,"Costa, Walsh and Johns - Tailscale",Proposal,Partner,10835,49,2024-11-06,,Michael Barker
+opp_1ec11a5c,cust_d5a9ea0e,Berry-Mckinney - Tailscale,Proposal,Outbound,50096,86,2024-02-07,,Heather Thomas
+opp_0dcdea34,cust_9d796a61,White PLC - Tailscale,Closed Won,Event,166651,100,2024-02-23,2024-09-11,Richard Jenkins
+opp_858f2dac,cust_3cb2ebd9,Coleman-Reese - Tailscale,Proposal,Outbound,148648,39,2024-12-23,,Ashley Moore
+opp_a7d87ed1,cust_ccfacb38,"Davis, Good and Hodges - Tailscale",Closed Lost,Partner,10314,0,2024-03-26,2024-06-07,Kristin Norris
+opp_1c4239b4,cust_83e9f22b,Gonzalez-Cruz - Tailscale,Qualification,Referral,1512257,57,2024-07-23,,Michelle Park
+opp_b251edf2,cust_e70775de,Thompson-Johnson - Tailscale,Proposal,Outbound,22729,73,2024-11-07,,Joe Jones
+opp_681773b5,cust_7f52ebff,Ramirez-Hartman - Tailscale,Proposal,Partner,171562,35,2024-11-14,,Alan Bailey
+opp_037fc546,cust_b369f97a,"Kelley, Miller and Clark - Tailscale",Prospecting,Referral,14759,37,2024-09-25,,Robert Preston
+opp_5acc58e8,cust_4270ee2d,"Shah, Smith and Gilmore - Tailscale",Qualification,Referral,981039,54,2024-08-20,,Tracy Jackson
+opp_99bf182e,cust_d1c0b40e,Jackson and Sons - Tailscale,Proposal,Event,22164,66,2024-04-28,,Robert Walker
+opp_6453f1d2,cust_be5848c4,Joseph Ltd - Tailscale,Proposal,Inbound,4130,55,2024-11-28,,Melissa Parker
+opp_4930e09f,cust_cb0f9cc0,"Buck, Garrett and Simmons - Tailscale",Qualification,Inbound,4422,56,2024-03-22,,Blake Vazquez
+opp_da47284f,cust_fdba4476,"Oneal, Smith and Ward - Tailscale",Closed Won,Outbound,4922,100,2024-10-31,2024-11-10,Raymond Todd
+opp_a625aff2,cust_eef891fd,"Torres, Silva and Cunningham - Tailscale",Qualification,Outbound,1993660,39,2024-01-17,,Andrew Keller
+opp_f288d67e,cust_10590a96,Padilla-Lewis - Tailscale,Proposal,Referral,22719,53,2024-08-18,,Bryan King
+opp_3bddebaa,cust_3d88e46f,Trujillo Group - Tailscale,Qualification,Partner,3246,49,2024-01-26,,Adam Davis
+opp_cead93be,cust_fbc8def5,Brown-Wall - Tailscale,Closed Won,Outbound,3803,100,2024-02-18,2024-10-08,Steven Lopez
+opp_261a9948,cust_f4e80a15,"Duncan, Black and Duncan - Tailscale",Proposal,Outbound,263663,66,2024-05-16,,Charles Francis
+opp_49b8f71a,cust_ac8be4c1,"Adams, Smith and Barber - Tailscale",Closed Won,Inbound,122808,100,2024-04-17,2024-11-28,Christopher Mason
+opp_aff16150,cust_caaa7a94,Olson Group - Tailscale,Closed Won,Outbound,23466,100,2024-10-09,2024-12-07,Kelly Garcia
+opp_aacfdc7d,cust_21d094fc,"Burke, Martinez and Riggs - Tailscale",Prospecting,Outbound,69649,79,2024-08-12,,Kendra Baldwin
+opp_19883cbe,cust_cf62a510,Hines and Sons - Tailscale,Closed Lost,Inbound,4023,0,2024-04-19,2024-06-24,Kimberly Beltran
+opp_ebf6fac2,cust_51470468,"Avery, Garcia and Romero - Tailscale",Closed Won,Event,4915,100,2024-02-08,2024-05-01,Sarah Wells
+opp_a9b39fef,cust_050864c6,Mccann and Sons - Tailscale,Closed Lost,Event,1266614,0,2024-09-28,2024-11-24,Michael Rodriguez
+opp_e1d92064,cust_544ab9cf,Vaughn Group - Tailscale,Qualification,Event,443242,12,2024-11-20,,James Lewis
+opp_22d5b421,cust_32899952,"Thompson, Ruiz and Archer - Tailscale",Closed Won,Referral,966446,100,2024-03-29,2024-09-03,William Martinez
+opp_2a486b26,cust_bcd32cf5,"Murray, Erickson and Gonzales - Tailscale",Closed Lost,Outbound,263672,0,2024-02-12,2024-08-31,Philip Bush
+opp_08c30dd5,cust_27719a39,Knight PLC - Tailscale,Negotiation,Partner,90029,67,2024-08-04,,Angela Snyder
+opp_cf443b24,cust_faa598f1,"Santiago, Romero and Smith - Tailscale",Closed Lost,Inbound,20373,0,2024-05-29,2024-09-16,Noah Mcdaniel
+opp_8d18fa0b,cust_6b40e499,Edwards Group - Tailscale,Qualification,Partner,3219,20,2024-11-22,,Julian Roberts
+opp_e69a9080,cust_5d02bb10,"Lee, Williams and Graham - Tailscale",Closed Lost,Partner,26870,0,2024-11-28,2024-12-18,Benjamin Randall
+opp_2ffba677,cust_6d78fa07,"Martin, Whitaker and Johnson - Tailscale",Negotiation,Outbound,1320234,77,2024-07-03,,Holly Smith
+opp_77776975,cust_839f75a0,Terrell Ltd - Tailscale,Qualification,Partner,129823,41,2024-09-18,,Brian Kim DDS
+opp_fc422954,cust_334e9be4,"Sanchez, Beck and Wood - Tailscale",Closed Lost,Outbound,243515,0,2024-02-03,2024-03-20,James Garza
+opp_84c1f95f,cust_e361a1c1,"Lawson, Adkins and Wilson - Tailscale",Closed Won,Partner,914872,100,2024-02-09,2024-11-22,Vanessa Brown
+opp_a4540830,cust_5d2223cf,"Wilson, Hicks and Bullock - Tailscale",Closed Won,Outbound,61945,100,2024-03-18,2024-07-27,Ryan Powell
+opp_4313f481,cust_60bbf2e7,Mckinney-Moore - Tailscale,Closed Won,Inbound,363244,100,2024-03-31,2024-09-11,Diana Reeves
+opp_19ec2bae,cust_a46d9f25,"Yu, Banks and Thompson - Tailscale",Closed Lost,Outbound,492383,0,2024-08-13,2024-12-06,Richard Schneider
+opp_cfdda1ca,cust_c22c67fd,"Perez, Brown and Hughes - Tailscale",Closed Lost,Event,607,0,2024-06-04,2024-10-20,Larry Sullivan
+opp_64b9a3cd,cust_7f88e8c3,Velasquez Group - Tailscale,Proposal,Outbound,153381,31,2024-07-07,,Brittany Gibson
+opp_5f0a8483,cust_6613ddf6,Johnson-Wood - Tailscale,Closed Won,Partner,3711,100,2024-02-17,2024-05-24,David Dunlap Jr.
+opp_37394e2d,cust_bb802257,"Smith, Jones and Ware - Tailscale",Closed Won,Partner,396745,100,2024-10-13,2024-10-18,Kathleen Johnson
+opp_7ade836a,cust_6e4c0342,"White, Burch and Reynolds - Tailscale",Proposal,Inbound,1408,53,2024-03-10,,Michael Hernandez
+opp_8013c343,cust_054cc072,Torres and Sons - Tailscale,Closed Lost,Referral,60508,0,2024-08-29,2024-12-28,Billy Walton
+opp_fb40beea,cust_2f556bcc,Christian-Booth - Tailscale,Closed Won,Referral,23914,100,2024-10-25,2024-12-11,Christina Bates
+opp_c394ade4,cust_8a533556,Juarez and Sons - Tailscale,Proposal,Partner,53676,28,2024-07-09,,Kimberly Pacheco
+opp_1acd128e,cust_10ee9ef9,"Suarez, Shields and Hill - Tailscale",Closed Won,Referral,457360,100,2024-07-28,2024-11-11,Phillip Ewing
+opp_0451a398,cust_3100cdb4,"Nguyen, Padilla and Boyd - Tailscale",Closed Lost,Partner,17479,0,2024-12-07,2024-12-29,Jerry Farrell
+opp_dcad63b1,cust_93e737dd,"Bray, Warren and Campbell - Tailscale",Proposal,Inbound,12463,77,2024-06-20,,Andrew Hawkins
+opp_8d11c45e,cust_eee03a5d,"Sanchez, Ford and Nelson - Tailscale",Prospecting,Inbound,16920,35,2024-11-30,,Stacey Martin
+opp_f8b9b8a5,cust_cfc3dba1,Collins Inc - Tailscale,Qualification,Inbound,3312,77,2024-06-16,,Mike Freeman
+opp_5ff134bb,cust_ae985696,Patel Group - Tailscale,Closed Won,Referral,1214346,100,2024-02-12,2024-09-19,Mary Jennings
+opp_d4db5afc,cust_b5d59990,Stokes-Mills - Tailscale,Closed Lost,Partner,2054,0,2024-08-10,2024-11-09,Scott Hunter
+opp_079d0c34,cust_55e45d8f,Keller Group - Tailscale,Qualification,Partner,10761,68,2024-05-31,,Kevin Gray
+opp_239bd400,cust_2a6b052e,Huerta PLC - Tailscale,Qualification,Referral,2703,37,2024-09-19,,William Flores
+opp_f5dac7ad,cust_9df6f820,Arnold LLC - Tailscale,Negotiation,Partner,94588,38,2024-01-11,,Bethany Richardson
+opp_05240812,cust_2d338b7a,Snyder-Sanchez - Tailscale,Closed Won,Inbound,376713,100,2024-11-10,2024-11-12,Lori James
+opp_1599a90e,cust_4b145481,Schneider-Murphy - Tailscale,Closed Lost,Referral,435829,0,2024-06-15,2024-10-27,Jennifer Brown MD
+opp_fd5d8f8e,cust_c268754e,Carroll-Brown - Tailscale,Negotiation,Outbound,1686,63,2024-04-01,,Leslie Lozano
+opp_208fdb1c,cust_7985d897,Walker-Jones - Tailscale,Proposal,Inbound,450591,12,2024-01-26,,Ashley Jackson
+opp_a3e93776,cust_0a762ac9,Baker-Wilson - Tailscale,Closed Lost,Outbound,1131878,0,2024-07-28,2024-09-29,Matthew Henderson
+opp_d65be4bc,cust_e07d7577,Adams-Butler - Tailscale,Closed Lost,Partner,1271663,0,2024-07-18,2024-10-07,Michael Chapman
+opp_ed6cf219,cust_1d4b2869,"Jones, Hale and Blair - Tailscale",Closed Lost,Partner,423512,0,2024-05-02,2024-09-25,Erica Davis
+opp_205aa533,cust_1fd94ccf,Bender-Mason - Tailscale,Prospecting,Inbound,22972,15,2024-07-08,,Michael Rogers
+opp_f5215441,cust_036c232c,Davis-Crane - Tailscale,Closed Lost,Inbound,5262,0,2024-07-14,2024-12-18,Gina Mendez
+opp_fc8eeb31,cust_f50a6b99,Vance and Sons - Tailscale,Proposal,Partner,885,72,2024-05-21,,Christina Reid
+opp_b80108a8,cust_07164d04,Chan Inc - Tailscale,Negotiation,Event,83842,13,2024-11-01,,Samuel Lewis
+opp_aa93469a,cust_f3d50569,"Hansen, Barnett and Gomez - Tailscale",Closed Lost,Outbound,22973,0,2024-04-12,2024-04-30,Kenneth Ballard
+opp_69298500,cust_1b23529d,Rush PLC - Tailscale,Prospecting,Event,279428,61,2024-08-30,,Anna Richard
+opp_8d89439f,cust_4625b03a,House Ltd - Tailscale,Closed Lost,Outbound,1506556,0,2024-02-06,2024-09-22,Austin Solis
+opp_064f5d08,cust_03473f17,Brock Ltd - Tailscale,Closed Lost,Partner,76444,0,2024-07-03,2024-09-23,Robert Pearson
+opp_b56866d4,cust_dc2425ce,Pena-Watts - Tailscale,Proposal,Inbound,521819,86,2024-04-27,,Elizabeth Alvarado
+opp_5d58b1f1,cust_05c57191,"Mcdaniel, Mayer and Armstrong - Tailscale",Closed Lost,Outbound,2781,0,2024-05-01,2024-07-17,David Robertson
+opp_88731d80,cust_25b36647,Short-Garcia - Tailscale,Closed Lost,Referral,904584,0,2024-09-17,2024-10-22,Lori Black
+opp_165c09fc,cust_6bcdbe34,Smith-Roth - Tailscale,Closed Won,Event,1847,100,2024-03-13,2024-10-23,Mr. Rodney Hurley III
+opp_89c25481,cust_33f41ace,Bailey-Hoover - Tailscale,Proposal,Outbound,73123,54,2024-09-04,,Lisa Hammond
+opp_72ffdee8,cust_b5255d9e,Martin-Kelly - Tailscale,Negotiation,Outbound,59547,35,2024-06-17,,Molly Brown
+opp_c367f60a,cust_14707aec,"Curry, Baker and James - Tailscale",Closed Won,Referral,70075,100,2024-03-18,2024-08-06,David Francis
+opp_0a1cd8ee,cust_28139ceb,Jones Inc - Tailscale,Negotiation,Referral,10953,43,2024-10-24,,Jeffrey Flores
+opp_feee2993,cust_beb8523e,Jacobson Inc - Tailscale,Qualification,Referral,1139286,84,2024-11-18,,Madison Singleton
+opp_c95751f7,cust_2a31002b,Alvarado LLC - Tailscale,Closed Lost,Inbound,64419,0,2024-04-13,2024-08-02,Dawn Burke
+opp_72cdc9bd,cust_568c28cc,Williams Inc - Tailscale,Closed Lost,Inbound,15049,0,2024-06-06,2024-09-06,Corey Sanchez
+opp_e4a18df3,cust_621afa69,Mcdowell-Smith - Tailscale,Closed Won,Event,1094932,100,2024-11-17,2024-12-02,Justin Graham
+opp_b5eaf4b8,cust_9f87e7d4,"Mcintyre, Rivas and Scott - Tailscale",Closed Won,Outbound,17889,100,2024-09-08,2024-09-15,Dominic Johnson
+opp_244fd14b,cust_d514fe41,"Anderson, Dalton and Wilson - Tailscale",Qualification,Event,3089,57,2024-11-02,,Mary Thompson
+opp_97dc0a8e,cust_aa829280,Schultz and Sons - Tailscale,Proposal,Event,176350,36,2024-11-27,,Nathan Casey
+opp_96a8e13e,cust_aaef9e2f,"Phelps, Kramer and Shannon - Tailscale",Qualification,Inbound,1828733,23,2024-01-22,,Angela Guzman
+opp_73ba2177,cust_ae2f5724,Bush Ltd - Tailscale,Qualification,Partner,18821,81,2024-12-02,,Troy Mosley
+opp_22167c27,cust_aa829280,Schultz and Sons - Tailscale,Qualification,Partner,125285,51,2024-09-17,,Ann Hahn
+opp_4861852c,cust_16ddfe88,"Ray, Cunningham and Levine - Tailscale",Proposal,Outbound,322416,32,2024-10-08,,Cynthia Duncan
+opp_a71c137c,cust_3cef5b16,"Ramos, Anderson and Stein - Tailscale",Qualification,Referral,171672,77,2024-07-13,,Kelly Calderon
+opp_dfa11b42,cust_d8cd46af,"Hall, Garcia and Rivera - Tailscale",Qualification,Outbound,45856,26,2024-10-28,,Darlene Wilkerson
+opp_460a4fdf,cust_14707aec,"Curry, Baker and James - Tailscale",Closed Won,Outbound,27187,100,2024-04-02,2024-11-20,Robert Murphy
+opp_f36cf195,cust_99f29e6f,"Mendoza, Bennett and Frye - Tailscale",Proposal,Inbound,636,43,2024-08-14,,Renee Manning
+opp_ee58b0ee,cust_1669d315,"Green, Watson and Brady - Tailscale",Proposal,Outbound,1656,10,2024-12-29,,Charles Thompson
+opp_0a4012df,cust_00747296,Moreno Group - Tailscale,Proposal,Referral,918904,66,2024-04-16,,David Lawrence
+opp_22920e1f,cust_58ad2429,"Brooks, Miles and Durham - Tailscale",Proposal,Inbound,15232,90,2024-07-09,,Melissa Rodriguez
+opp_d7690bb5,cust_267bb07f,Nelson-Brown - Tailscale,Qualification,Event,360604,43,2024-07-30,,Michael Richmond
+opp_35274f61,cust_17e23f43,Foley Inc - Tailscale,Proposal,Inbound,6086,79,2024-12-07,,Brianna Alvarez
+opp_6701cf9d,cust_4b145481,Schneider-Murphy - Tailscale,Qualification,Partner,373580,75,2024-05-22,,Alisha Rasmussen
+opp_7db03d7a,cust_a736e603,"Smith, Macias and Gonzales - Tailscale",Negotiation,Partner,2137,13,2024-08-23,,Patrick Lindsey
+opp_bf79c8ab,cust_0d0cf18d,Baker and Sons - Tailscale,Closed Won,Partner,1012826,100,2024-01-22,2024-10-16,Megan King
+opp_b1d661d9,cust_4d3bd766,"Lane, Griffith and Silva - Tailscale",Proposal,Partner,16153,11,2024-05-29,,Tyler Cox
+opp_3b797397,cust_59f8ac68,Green-Dawson - Tailscale,Closed Lost,Partner,3714,0,2024-11-11,2024-11-22,Cynthia Ramos
+opp_ec99ae98,cust_fd3bfbca,"Harper, Chambers and Flores - Tailscale",Proposal,Referral,20329,24,2024-01-04,,Jenna Spence
+opp_0b0384bd,cust_050864c6,Mccann and Sons - Tailscale,Closed Won,Event,1034083,100,2024-04-09,2024-08-03,Rodney Young
+opp_a3f1b120,cust_0a762ac9,Baker-Wilson - Tailscale,Closed Lost,Event,1596244,0,2024-03-22,2024-05-23,Lynn Suarez
+opp_2b03c7ce,cust_712aff0f,Smith-Bell - Tailscale,Qualification,Event,307752,80,2024-10-24,,Rachel Hill
+opp_df98844f,cust_8e0604f2,"Hernandez, Kim and Potts - Tailscale",Closed Won,Event,357089,100,2024-02-01,2024-12-16,Katherine Mclaughlin
+opp_65c20a90,cust_46cc5093,Holmes LLC - Tailscale,Proposal,Event,461464,82,2024-12-25,,Michelle Mcdowell
+opp_5e12674e,cust_ba916dcd,"Soto, Brown and Hernandez - Tailscale",Closed Lost,Partner,242730,0,2024-11-14,2024-11-18,Melissa Hunter
+opp_8c24adc1,cust_b021cd2e,"Sanchez, Phillips and Jenkins - Tailscale",Closed Lost,Outbound,15261,0,2024-05-16,2024-10-26,Robin Rojas
+opp_4249cb9a,cust_54ab30e9,Holland Inc - Tailscale,Closed Lost,Event,17503,0,2024-06-25,2024-11-06,Anthony May
+opp_0102d10f,cust_5228554e,Gross-Phillips - Tailscale,Proposal,Referral,1388741,79,2024-09-01,,Martin Smith
+opp_59981175,cust_05c6e2b0,Lopez LLC - Tailscale,Proposal,Referral,710167,69,2024-03-18,,Emily Miller
+opp_3f8a7066,cust_3415c7f3,Donovan-Perez - Tailscale,Qualification,Event,2915,81,2024-03-02,,Micheal Saunders
+opp_9244645d,cust_1fd94ccf,Bender-Mason - Tailscale,Prospecting,Outbound,5574,72,2024-09-09,,Sarah Jennings
+opp_5a9f9e2e,cust_bb6a104f,Herrera and Sons - Tailscale,Proposal,Referral,10098,30,2024-11-03,,Jocelyn Russo
+opp_00b441ad,cust_785a25a6,Pena and Sons - Tailscale,Closed Won,Partner,24085,100,2024-02-21,2024-06-01,Kevin Murphy
+opp_f16a56d2,cust_6173f89d,"Shields, Cochran and Adams - Tailscale",Qualification,Referral,117672,32,2024-04-19,,Jason White
+opp_6b8cd17d,cust_2a31002b,Alvarado LLC - Tailscale,Closed Won,Event,47714,100,2024-12-06,2024-12-24,Stacey Walker
+opp_77df4dbe,cust_3efa01db,Alexander Group - Tailscale,Proposal,Outbound,12258,18,2024-01-09,,Maria Sims
+opp_e19d39bd,cust_214937ef,Davis-Morse - Tailscale,Negotiation,Referral,18097,70,2024-12-18,,Joel Green
+opp_45cf9a4c,cust_25b36647,Short-Garcia - Tailscale,Proposal,Event,1138017,83,2024-11-26,,James Patterson
+opp_790e6b2c,cust_54ab30e9,Holland Inc - Tailscale,Qualification,Inbound,3431,28,2024-04-11,,Tyler Jackson
+opp_dacb3e5c,cust_829c510a,Ruiz-Jacobson - Tailscale,Closed Won,Inbound,8301,100,2024-08-08,2024-08-30,Joseph Ayala
+opp_67c29734,cust_5534ea62,Lynch Ltd - Tailscale,Qualification,Event,899,69,2024-12-26,,Michael Wilson
+opp_c2ac3dec,cust_36d5b38b,"Jordan, Smith and Lewis - Tailscale",Closed Won,Inbound,1614735,100,2024-10-04,2024-10-23,Scott Casey
+opp_bc010393,cust_5c0b268a,Wise Inc - Tailscale,Prospecting,Referral,4914,34,2024-04-21,,Janet Reynolds
+opp_79cf2e29,cust_e8de425b,Gibson LLC - Tailscale,Qualification,Referral,334830,17,2024-03-21,,Whitney Campbell
+opp_21bdbe0c,cust_36b922dc,"Hester, Thompson and Daniels - Tailscale",Negotiation,Referral,54411,53,2024-09-19,,Christopher Sparks
+opp_18af7951,cust_1dc440aa,Ray-Bush - Tailscale,Closed Lost,Outbound,1000249,0,2024-01-12,2024-05-03,Cynthia Hayes
+opp_7ef1c167,cust_12a08336,"Williams, Jones and Ballard - Tailscale",Qualification,Inbound,358857,59,2024-04-06,,Michael Ellis
+opp_c74957f9,cust_47f066bd,"Lozano, Smith and Thomas - Tailscale",Prospecting,Referral,19514,46,2024-01-05,,Seth Mccann
+opp_e624a4a7,cust_865e54f0,"Ramos, Nelson and Fischer - Tailscale",Closed Won,Event,78229,100,2024-06-03,2024-08-24,Michelle Fitzgerald
+opp_162a6f4f,cust_8d47e84e,Hensley-Flores - Tailscale,Proposal,Referral,3624,65,2024-04-09,,Justin Williams
+opp_756e1ba5,cust_859be475,Rogers-Snyder - Tailscale,Closed Won,Inbound,1768214,100,2024-12-27,2024-12-28,Hector Obrien
+opp_4091b6ec,cust_d4a4b8b5,Hernandez-Dawson - Tailscale,Closed Lost,Referral,65291,0,2024-09-17,2024-09-25,Jonathan James
+opp_69dd42ee,cust_4d910c96,Wood and Sons - Tailscale,Proposal,Outbound,279060,61,2024-06-02,,Brandi Mcclain
+opp_c17e3e86,cust_9430fdc9,"Ball, Montes and Bishop - Tailscale",Closed Lost,Event,10194,0,2024-01-16,2024-08-28,Christopher Vasquez
+opp_adf84e7b,cust_70d58585,"Newton, Ortiz and King - Tailscale",Qualification,Referral,178061,31,2024-05-11,,Bonnie Stewart
+opp_2856f02b,cust_2fb69f5a,Johnston and Sons - Tailscale,Closed Won,Inbound,2985,100,2024-07-24,2024-10-16,Bruce Williams
+opp_1d5c153d,cust_bdbd0a3f,Wright-Wilson - Tailscale,Qualification,Event,340938,66,2024-02-19,,Dr. Douglas Ward MD
+opp_c0d8a906,cust_141ff139,"Hoover, White and Keller - Tailscale",Closed Won,Event,4830,100,2024-12-16,2024-12-22,Pam Baker
+opp_20e4176e,cust_1d421fc7,"Dean, Wheeler and Williams - Tailscale",Prospecting,Inbound,2880,82,2024-05-01,,Christopher Doyle
+opp_c4a18f67,cust_57c59056,"Russell, Johnson and Gomez - Tailscale",Proposal,Inbound,3333,62,2024-07-09,,Brittany Farrell
+opp_cb7c2c7a,cust_5c0b268a,Wise Inc - Tailscale,Negotiation,Event,13157,61,2024-09-12,,Jessica Lopez
+opp_9b52a684,cust_dd037174,Rush Group - Tailscale,Closed Won,Inbound,319986,100,2024-01-22,2024-04-20,John Martin
+opp_016c3c7e,cust_fda37853,Dudley PLC - Tailscale,Qualification,Referral,52462,34,2024-06-30,,Zachary Ho
+opp_fdedcaa4,cust_86b4de04,Gilbert Ltd - Tailscale,Closed Lost,Event,549137,0,2024-01-16,2024-07-05,Michael Washington
+opp_dc40652c,cust_15c92d84,Ramirez and Sons - Tailscale,Closed Lost,Inbound,1766,0,2024-07-10,2024-07-31,Sharon Martinez

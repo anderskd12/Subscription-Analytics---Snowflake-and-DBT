@@ -1,0 +1,6 @@
+plan_id,plan_name,price_monthly,price_annual,max_devices
+personal,Personal,0,0,20
+premium,Premium,6,60,100
+team,Team,6,60,100
+business,Business,18,180,200
+enterprise,Enterprise,48,480,1000
