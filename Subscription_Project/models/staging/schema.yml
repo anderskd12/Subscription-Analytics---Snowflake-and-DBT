@@ -1,0 +1,118 @@
+# models/staging/schema.yml
+# Additional tests and documentation for staging models
+
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Cleaned and standardized customer data"
+    columns:
+      - name: customer_id
+        description: "Unique customer identifier"
+        tests:
+          - unique
+          - not_null
+      - name: customer_created_date
+        description: "Date customer record was created"
+        tests:
+          - not_null
+      - name: is_customer_active
+        description: "Boolean flag for customer active status"
+        tests:
+          - not_null
+
+  - name: stg_subscription_plans
+    description: "Subscription plan reference data with calculated tiers"
+    columns:
+      - name: plan_id
+        description: "Unique plan identifier"
+        tests:
+          - unique
+          - not_null
+      - name: plan_tier
+        description: "Numeric tier for plan hierarchy (0=Free, 1=Basic, 2=Business, 3=Enterprise)"
+        tests:
+          - not_null
+
+  - name: stg_subscriptions
+    description: "Customer subscription records with derived fields"
+    columns:
+      - name: subscription_id
+        description: "Unique subscription identifier"
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "Foreign key to customers"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: subscription_start_date
+        description: "Subscription start date"
+        tests:
+          - not_null
+      - name: is_active
+        description: "Calculated field: true if subscription has no end_date"
+        tests:
+          - not_null
+
+  - name: stg_invoices
+    description: "Invoice data with payment timing calculations"
+    columns:
+      - name: invoice_id
+        description: "Unique invoice identifier"
+        tests:
+          - unique
+          - not_null
+      - name: subscription_id
+        description: "Foreign key to subscriptions"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_subscriptions')
+              field: subscription_id
+      - name: final_amount
+        description: "Net invoice amount after discounts"
+        tests:
+          - not_null
+
+  - name: stg_payments
+    description: "Payment transaction records"
+    columns:
+      - name: payment_id
+        description: "Unique payment identifier"
+        tests:
+          - unique
+          - not_null
+      - name: payment_amount
+        description: "Payment amount"
+        tests:
+          - not_null
+
+  - name: stg_usage_data
+    description: "Monthly usage metrics with calculated averages"
+    columns:
+      - name: usage_id
+        description: "Unique usage record identifier"
+        tests:
+          - unique
+          - not_null
+      - name: usage_month
+        description: "Usage reporting month"
+        tests:
+          - not_null
+
+  - name: stg_opportunities
+    description: "Sales opportunity data from CRM"
+    columns:
+      - name: opportunity_id
+        description: "Unique opportunity identifier"
+        tests:
+          - unique
+          - not_null
+      - name: deal_value
+        description: "Potential deal value"
+        tests:
+          - not_null

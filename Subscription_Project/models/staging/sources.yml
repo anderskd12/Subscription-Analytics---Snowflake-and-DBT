@@ -1,0 +1,309 @@
+# models/staging/sources.yml
+# Sources configuration for raw Tailscale data
+
+version: 2
+
+sources:
+  - name: raw_ts
+    description: "Raw data from Tailscale's operational systems"
+    schema: SOURCE  # Adjust to your actual schema name
+    
+    tables:
+      - name: customers
+        description: "Customer master data from CRM/billing system"
+        columns:
+          - name: customer_id
+            description: "Unique customer identifier"
+            tests:
+              - unique
+              - not_null
+          - name: company_name
+            description: "Customer company name"
+            tests:
+              - not_null
+          - name: company_size
+            description: "Employee count category"
+            tests:
+              - accepted_values:
+                  values: ['1-10', '11-50', '51-200', '201-1000', '1000+']
+          - name: company_type
+            description: "Business category"
+          - name: industry
+            description: "Customer industry vertical"
+          - name: country
+            description: "Customer country code"
+          - name: created_at
+            description: "Customer record creation timestamp"
+            tests:
+              - not_null
+          - name: acquisition_channel
+            description: "How customer was acquired"
+          - name: is_active
+            description: "Customer active status flag"
+            tests:
+              - not_null
+
+      - name: subscription_plans
+        description: "Tailscale subscription plan catalog"
+        columns:
+          - name: plan_id
+            description: "Unique plan identifier"
+            tests:
+              - unique
+              - not_null
+          - name: plan_name
+            description: "Human-readable plan name"
+            tests:
+              - not_null
+          - name: price_monthly
+            description: "Monthly price in USD"
+            tests:
+              - not_null
+          - name: price_annual
+            description: "Annual price in USD"
+            tests:
+              - not_null
+          - name: max_devices
+            description: "Maximum devices allowed on plan"
+
+      - name: subscriptions
+        description: "Customer subscription records"
+        columns:
+          - name: subscription_id
+            description: "Unique subscription identifier"
+            tests:
+              - unique
+              - not_null
+          - name: customer_id
+            description: "Foreign key to customers table"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'customers')
+                  field: customer_id
+          - name: plan_id
+            description: "Foreign key to subscription_plans table"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'subscription_plans')
+                  field: plan_id
+          - name: billing_cycle
+            description: "Monthly or annual billing"
+            tests:
+              - accepted_values:
+                  values: ['monthly', 'annual']
+          - name: user_count
+            description: "Number of licensed users"
+            tests:
+              - not_null
+          - name: start_date
+            description: "Subscription start date"
+            tests:
+              - not_null
+          - name: end_date
+            description: "Subscription end date (null if active)"
+          - name: status
+            description: "Subscription status"
+            tests:
+              - accepted_values:
+                  values: ['active', 'churned', 'paused', 'cancelled']
+          - name: created_at
+            description: "Record creation timestamp"
+          - name: updated_at
+            description: "Record last update timestamp"
+
+      - name: invoices
+        description: "Billing invoices from Stripe/Orb"
+        columns:
+          - name: invoice_id
+            description: "Unique invoice identifier"
+            tests:
+              - unique
+              - not_null
+          - name: subscription_id
+            description: "Foreign key to subscriptions"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'subscriptions')
+                  field: subscription_id
+          - name: customer_id
+            description: "Foreign key to customers"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'customers')
+                  field: customer_id
+          - name: invoice_date
+            description: "Date invoice was generated"
+            tests:
+              - not_null
+          - name: due_date
+            description: "Payment due date"
+            tests:
+              - not_null
+          - name: paid_date
+            description: "Date invoice was paid (null if unpaid)"
+          - name: amount
+            description: "Gross invoice amount before discounts"
+            tests:
+              - not_null
+          - name: discount_amount
+            description: "Total discount applied"
+            tests:
+              - not_null
+          - name: final_amount
+            description: "Net amount after discounts"
+            tests:
+              - not_null
+          - name: status
+            description: "Invoice payment status"
+            tests:
+              - accepted_values:
+                  values: ['draft', 'sent', 'paid', 'overdue', 'cancelled']
+          - name: billing_period_start
+            description: "Start of billing period"
+            tests:
+              - not_null
+          - name: billing_period_end
+            description: "End of billing period"
+            tests:
+              - not_null
+          - name: created_at
+            description: "Invoice creation timestamp"
+
+      - name: payments
+        description: "Payment transactions from Stripe"
+        columns:
+          - name: payment_id
+            description: "Unique payment identifier"
+            tests:
+              - unique
+              - not_null
+          - name: invoice_id
+            description: "Foreign key to invoices"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'invoices')
+                  field: invoice_id
+          - name: customer_id
+            description: "Foreign key to customers"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'customers')
+                  field: customer_id
+          - name: amount
+            description: "Payment amount in USD"
+            tests:
+              - not_null
+          - name: currency
+            description: "Payment currency code"
+            tests:
+              - accepted_values:
+                  values: ['USD', 'EUR', 'GBP', 'CAD']
+          - name: payment_method
+            description: "Payment method type"
+            tests:
+              - accepted_values:
+                  values: ['card', 'ach', 'wire_transfer', 'check']
+          - name: payment_date
+            description: "Date payment was processed"
+            tests:
+              - not_null
+          - name: stripe_charge_id
+            description: "Stripe charge identifier"
+          - name: status
+            description: "Payment status"
+            tests:
+              - accepted_values:
+                  values: ['succeeded', 'failed', 'pending', 'cancelled']
+          - name: created_at
+            description: "Payment record creation timestamp"
+
+      - name: usage_data
+        description: "Monthly usage metrics by subscription"
+        columns:
+          - name: usage_id
+            description: "Unique usage record identifier"
+            tests:
+              - unique
+              - not_null
+          - name: subscription_id
+            description: "Foreign key to subscriptions"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'subscriptions')
+                  field: subscription_id
+          - name: customer_id
+            description: "Foreign key to customers"
+            tests:
+              - not_null
+              - relationships:
+                  to: source('raw_ts', 'customers')
+                  field: customer_id
+          - name: month
+            description: "Usage month (first day of month)"
+            tests:
+              - not_null
+          - name: devices_connected
+            description: "Number of devices connected during month"
+            tests:
+              - not_null
+          - name: data_transfer_gb
+            description: "Total data transferred in GB"
+            tests:
+              - not_null
+          - name: active_users
+            description: "Number of active users during month"
+            tests:
+              - not_null
+          - name: connection_hours
+            description: "Total connection hours across all devices"
+            tests:
+              - not_null
+          - name: created_at
+            description: "Usage record creation timestamp"
+
+      - name: opportunities
+        description: "Sales opportunities from Salesforce"
+        columns:
+          - name: opportunity_id
+            description: "Unique opportunity identifier"
+            tests:
+              - unique
+              - not_null
+          - name: customer_id
+            description: "Foreign key to customers"
+            tests:
+              - relationships:
+                  to: source('raw_ts', 'customers')
+                  field: customer_id
+          - name: opportunity_name
+            description: "Opportunity description"
+          - name: stage
+            description: "Current sales stage"
+            tests:
+              - accepted_values:
+                  values: ['Prospecting', 'Qualification', 'Proposal', 'Negotiation', 'Closed Won', 'Closed Lost']
+          - name: lead_source
+            description: "How opportunity was generated"
+          - name: deal_value
+            description: "Potential deal value in USD"
+            tests:
+              - not_null
+          - name: probability
+            description: "Close probability percentage"
+            tests:
+              - not_null
+          - name: created_date
+            description: "Opportunity creation date"
+            tests:
+              - not_null
+          - name: close_date
+            description: "Actual or expected close date"
+          - name: sales_rep
+            description: "Assigned sales representative"
