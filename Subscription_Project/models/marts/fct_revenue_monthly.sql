@@ -43,6 +43,7 @@ monthly_revenue_fact as (
         mm.recognized_revenue,
         mm.deferred_revenue,
         sc.monthly_recurring_revenue as current_mrr,
+        sc.monthly_recurring_revenue * 2 as current_mrr_double,
         sc.annual_contract_value as current_acv,
         
         -- Status indicators
