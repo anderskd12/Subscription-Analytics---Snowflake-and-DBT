@@ -1,6 +1,6 @@
 # Subscription-Analytics Project ---Snowflake-and-DBT
 
-# Example Subscription Based Analytics dbt Project
+## Example Subscription Based Analytics dbt Project
 
 A comprehensive data transformation pipeline for an example Saas subscription business, providing GAAP-compliant revenue recognition, churn analysis, and executive reporting capabilities.
 
